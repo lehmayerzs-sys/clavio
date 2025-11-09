@@ -1,7 +1,7 @@
- [
+
+[
     {
       "id": "Lemon-15ml-001",
-      "attributes": {
         "title": "doTerra Citrom olaj 15 ml, Lemon",
         "link": "https://wellshop.hu/onallo-doterra-olaj-citrom-15-ml",
         "description": "A dōTERRA egyik legközkedveltebb esszenciális olajának, a citromnak számos jótékony hatása és használati módja létezik. Gyakran alkalmazzák a gasztronómiában is, különböző desszertek és főételek ízeinek kihangsúlyozásához. A citrom esszenciális olaj aromája felemel és energizál.",
@@ -10,5 +10,5 @@
         "categories":["doterra-olajok","Esszenciális olajok"],
         "inventory_quantity": 1,
         "inventory_policy":1
-      }
+    }
   ]
