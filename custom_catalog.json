@@ -369,7 +369,7 @@
       "doTerra Air ™ - Légzés",
       "Szabadalmaztatott olaj keverékek"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -739,7 +739,7 @@
       "doTerra Balance ™ - Egyensúly",
       "Szabadalmaztatott olaj keverékek"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": -1,
     "inventory_policy": 1
   },
   {
@@ -883,7 +883,7 @@
       "doTerra olajok",
       "Esszenciális olajok"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -1331,7 +1331,7 @@
       "doTerra készítmények",
       "doTerra Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": -1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2070,7 +2070,7 @@
       "Szabadalmaztatott olaj keverékek",
       "doTerra termékcsaládok"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2453,7 +2453,7 @@
       "Esszenciális olajok",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2877,7 +2877,7 @@
       "doTerra készítmények",
       "doTerra MetaPWR ™ - Energetizáló"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3341,7 +3341,7 @@
       "Személyes higiénia",
       "doTerra Szájápolás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": -1,
     "inventory_policy": 1
   },
   {
@@ -3611,7 +3611,7 @@
       "doTerra termékcsaládok",
       "doTerra On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4386,7 +4386,7 @@
       "Touch",
       "higított olajok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": -1,
     "inventory_policy": 1
   },
   {
@@ -4702,7 +4702,7 @@
       "doTerra olajok",
       "Esszenciális olajok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": -2,
     "inventory_policy": 1
   },
   {
@@ -4986,7 +4986,7 @@
       "doTerra olajok",
       "Esszenciális olajok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": -1,
     "inventory_policy": 1
   },
   {
