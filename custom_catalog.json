@@ -1,5 +1,21 @@
 [
   {
+    "id": "Foaming-Hand-Wash-2db-keszlet-001",
+    "title": "doTerra On Guard habzó kézmosó x 2 db - Foaming Hand Wash",
+    "link": "https://wellshop.hu/doTerra termékcsaládok| doTerra On Guard ™ - Immunrendszer",
+    "description": "DoTerra megoldások és célok|doTerra a Háztartásban",
+    "price": 19517,
+    "image_link": "https://wellshop.hu/img/95078/Kollekciók és Otthon|Kollekciók és csomagok",
+    "categories": [
+      "DoTerra megoldások és célok",
+      "doTerra a Háztartásban",
+      "Bőrápolás és szépség",
+      "doTerra Bőrápolás"
+    ],
+    "inventory_quantity": 0,
+    "inventory_policy": 1
+  },
+  {
     "id": "Karacsonyi-ajandekutalvany-1db-002",
     "title": "100.000 Ft+5.000 Ft értékú ajándékutalvány akció 2025.12.20-ig",
     "link": "https://wellshop.hu/",
@@ -184,7 +200,7 @@
     "title": "doTerra a2z Chewable rágótabletta 60 db-os",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 14056,
+    "price": 13416,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -203,7 +219,7 @@
     "title": "doTerra abode habzó kézmosó koncentrátum Citrus Bloom keverékkel",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 9445,
+    "price": 9421,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -233,7 +249,7 @@
   {
     "id": "Adaptiv-15ml-001",
     "title": "doTerra Adaptiv olaj keverék 15 ml",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Alvás és Stresszoldás",
     "description": "doTERRA olajok",
     "price": 19726,
     "image_link": "https://wellshop.hu/img/95078/",
@@ -243,7 +259,7 @@
       "DoTerra megoldások és célok",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -259,7 +275,7 @@
       "DoTerra megoldások és célok",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -318,7 +334,7 @@
     "title": "doTerra Air-X olaj keverék 15 ml",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Air ™ - Légzés",
     "description": "doTERRA olajok",
-    "price": 17656,
+    "price": 14087,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -334,7 +350,7 @@
     "title": "doTerra Ajakbalzsam - eredeti 4 g, Lip Balm Original",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 3363,
+    "price": 3921,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -353,7 +369,7 @@
     "title": "doTerra Ajakbalzsam - trópusi 4 g, Lip Balm Tropical",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 5173,
+    "price": 5159,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -372,7 +388,7 @@
     "title": "doTerra Ajakbalzsam kollekció 3 db-os csomag, Lip Balm Variety",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 9312,
+    "price": 9902,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -391,7 +407,7 @@
     "title": "doTerra Ajakbalzsam – gyógynövényes 4 g, Lip Balm Herbal",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 4501,
+    "price": 3354,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -410,7 +426,7 @@
     "title": "doTerra Align olaj keverék 5 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 9164,
+    "price": 11248,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -426,7 +442,7 @@
     "title": "doTerra Alpha CRS+ 120 db-os kapszula",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 37869,
+    "price": 38356,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -445,7 +461,7 @@
     "title": "doTerra Anchor olaj keverék 5 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 9164,
+    "price": 11456,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -478,7 +494,7 @@
     "title": "doTerra Arise olaj keverék 5 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 11456,
+    "price": 9139,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -494,7 +510,7 @@
     "title": "doTerra AromaTouch olaj keverék 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 14545,
+    "price": 17246,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -510,7 +526,7 @@
     "title": "doTerra AromaTouch párologtatóval - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 76728,
+    "price": 76531,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -524,10 +540,10 @@
   {
     "id": "AromaTouch-Technique-Kit-9db-001",
     "title": "doTerra AromaTouch technika készlet 9 db",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Emésztés és méregtelenítés",
     "description": "doTERRA olajok",
-    "price": 63056,
-    "image_link": "https://wellshop.hu/img/95078/",
+    "price": 62956,
+    "image_link": "https://wellshop.hu/img/95078/Kollekciók és Otthon|Kollekciók és csomagok",
     "categories": [
       "doTERRA olajok",
       "DoTerra megoldások és célok",
@@ -542,7 +558,7 @@
     "title": "doTerra baba pelenka krém 60 g, Baby Diaper Cream",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 5588,
+    "price": 5908,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -578,7 +594,7 @@
     "title": "doTerra baby babatestápoló",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 9786,
+    "price": 9187,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -700,7 +716,7 @@
     "title": "doTerra Balance Spa fürdőszappan 113 g, Balance Bath Bar",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 4947,
+    "price": 4935,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -711,7 +727,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -719,7 +735,7 @@
     "title": "doTerra Balance Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Balance ™ - Egyensúly",
     "description": "doTERRA olajok",
-    "price": 8756,
+    "price": 6961,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -733,9 +749,9 @@
   {
     "id": "Basil-15ml-001",
     "title": "doTerra Bazsalikom olaj 15 ml, Basil",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Izmok, Ízületek és Mozgás",
     "description": "doTERRA olajok",
-    "price": 11518,
+    "price": 11489,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -752,7 +768,7 @@
     "title": "doTerra Bergamott olaj 15 ml, Bergamot",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 17678,
+    "price": 17632,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -767,7 +783,7 @@
   {
     "id": "Intro-Essential-Oil-Kit-3db-006",
     "title": "doTerra Bevezető csomag 3x5ml x 6 csomag, Intro Essential Oil Kit",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Immunerősítés és Védelem",
     "description": "doTERRA olajok",
     "price": 787400.79,
     "image_link": "https://wellshop.hu/img/95078/",
@@ -787,7 +803,7 @@
     "link": "https://wellshop.hu/Kollekciók és Otthon|Karácsony",
     "description": "doTERRA olajok",
     "price": 14659,
-    "image_link": "https://wellshop.hu/img/95078/",
+    "image_link": "https://wellshop.hu/img/95078/DoTerra megoldások és célok|Immunerősítés és Védelem",
     "categories": [
       "doTERRA olajok",
       "DoTerra megoldások és célok",
@@ -795,7 +811,7 @@
       "Esszenciális",
       "önálló olajok (Single Oils)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -831,13 +847,13 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
     "id": "Peppermint-15ml-001",
     "title": "doTerra Borsmenta olaj 15 ml, Peppermint",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Izmok, Ízületek és Mozgás",
     "description": "doTERRA olajok",
     "price": 13558,
     "image_link": "https://wellshop.hu/img/95078/",
@@ -854,7 +870,7 @@
   {
     "id": "Peppermint-Touch-10ml-001",
     "title": "doTerra Borsmenta Touch olaj 10 ml, Peppermint Touch",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Energia, Fókusz és Tanulás",
     "description": "doTERRA olajok",
     "price": 10141,
     "image_link": "https://wellshop.hu/img/95078/",
@@ -921,7 +937,7 @@
     "title": "doTerra Cheer Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 11246,
+    "price": 9139,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -973,7 +989,7 @@
     "title": "doTerra Citrom olaj 15 ml, Lemon",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 7036,
+    "price": 6289,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -990,7 +1006,7 @@
     "title": "doTerra Citronella olaj 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 9013,
+    "price": 8991,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1007,7 +1023,7 @@
     "title": "doTerra Citrus Bliss dezodor 75 g",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 5482,
+    "price": 5472,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1024,7 +1040,7 @@
     "title": "doTerra Citrus Bliss élénkítő fürdőszappan 113 g",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Spa ™ - Wellness kényeztetés",
     "description": "doTERRA olajok",
-    "price": 4244,
+    "price": 4233,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1058,7 +1074,7 @@
     "title": "doTerra Citrus Bliss olaj keverék 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 13056,
+    "price": 12956,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1075,7 +1091,7 @@
     "title": "doTerra ClaryCalm golyós, Roll-On olaj keverék 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 17496,
+    "price": 14925,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1091,7 +1107,7 @@
     "title": "doTerra Cleanse & Restore Vegán - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 129010,
+    "price": 128677,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1142,7 +1158,7 @@
     "title": "doTerra Copaiba olaj 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 20256,
+    "price": 18921,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1156,7 +1172,7 @@
   {
     "id": "Copaiba-Touch-10ml-001",
     "title": "doTerra Copaiba Touch olaj 10 ml",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Longevity támogató",
     "description": "doTERRA olajok",
     "price": 14156,
     "image_link": "https://wellshop.hu/img/95078/",
@@ -1211,7 +1227,7 @@
     "title": "doTerra Családi alapok csomag, Family Essentials",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 75428,
+    "price": 75233,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1230,7 +1246,7 @@
     "title": "doTerra Családi, Family Essentials - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 76242,
+    "price": 76046,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1249,7 +1265,7 @@
     "title": "doTerra Csokoládés növényi fehérje, Chocolate Plant Protein",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 18747,
+    "price": 19119,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1268,7 +1284,7 @@
     "title": "doTerra Dawn aroma párásító 1 db, Humidifier",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 28324,
+    "price": 28251,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1287,7 +1303,7 @@
     "title": "doTerra Dawn aroma párásító és Air-X olaj 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 17363,
+    "price": 17319,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1306,7 +1322,7 @@
     "title": "doTerra DDR Prime lágyzselé olaj keverék 60 kapszula, Softgels",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 28256,
+    "price": 28156,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1325,7 +1341,7 @@
     "title": "doTerra DDR Prime olaj keverék 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 20756,
+    "price": 16603,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1341,8 +1357,8 @@
     "title": "doTerra Deep Blue 3 db-os készlet, Deep Blue Kit",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Deep Blue  ™ - Izomlazító",
     "description": "doTERRA olajok",
-    "price": 54320,
-    "image_link": "https://wellshop.hu/img/95078/",
+    "price": 54956,
+    "image_link": "https://wellshop.hu/img/95078/Kollekciók és Otthon|Kollekciók és csomagok",
     "categories": [
       "doTERRA olajok",
       "doTerra termékcsaládok",
@@ -1352,7 +1368,7 @@
       "krémek)",
       "DoTerra megoldások és célok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 1,
     "inventory_policy": 1
   },
   {
@@ -1360,7 +1376,7 @@
     "title": "doTerra Deep Blue Krém 120 ml, Rub",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Deep Blue  ™ - Izomlazító",
     "description": "doTERRA olajok",
-    "price": 18656,
+    "price": 18369,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1371,7 +1387,7 @@
       "krémek)",
       "DoTerra megoldások és célok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 1,
     "inventory_policy": 1
   },
   {
@@ -1379,7 +1395,7 @@
     "title": "doTerra Deep Blue krém minták 2 ml",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Deep Blue  ™ - Izomlazító",
     "description": "doTERRA olajok",
-    "price": 4268,
+    "price": 4257,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1398,7 +1414,7 @@
     "title": "doTerra Deep Blue olaj keverék 5 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 18481,
+    "price": 15766,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1414,7 +1430,7 @@
     "title": "doTerra Deep Blue Polyphenol Complex 60 kapszula",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Deep Blue  ™ - Izomlazító",
     "description": "doTERRA olajok",
-    "price": 25217,
+    "price": 25152,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1444,7 +1460,7 @@
       "krémek)",
       "DoTerra megoldások és célok"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -1471,7 +1487,7 @@
     "title": "doTerra Deep Blue Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 23756,
+    "price": 18950,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1487,7 +1503,7 @@
     "title": "doTerra Deep Blue™ golyós, roll-on kiszerelésben Enyhítő keverék 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 27990,
+    "price": 27919,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1504,7 +1520,7 @@
     "title": "doTerra DigestTab 100 tábletta",
     "link": "https://wellshop.hu/doTerra termékcsaládok|Doterra ZenGest ™ - Emésztés támogató",
     "description": "doTERRA olajok",
-    "price": 10016,
+    "price": 7464,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1542,7 +1558,7 @@
     "title": "doTerra DigestZen tabletta 100 db-os (Alternatívája ZenGest™ lágyzselatin kapszula)",
     "link": "https://wellshop.hu/doTerra termékcsaládok|Doterra ZenGest ™ - Emésztés támogató",
     "description": "doTERRA olajok",
-    "price": 11512,
+    "price": 11483,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1561,7 +1577,7 @@
     "title": "doTerra Douglas fenyő és görög narancs dezodor 75 g, Douglas Fir and Greek Orange Deodorant",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 5213,
+    "price": 6080,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1595,7 +1611,7 @@
     "title": "doTerra Édeskömény olaj 15 ml, Fennel",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 7714,
+    "price": 7694,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1646,7 +1662,7 @@
     "title": "doTerra EO Mega™+ 15 tasak",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 18832,
+    "price": 18784,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1665,7 +1681,7 @@
     "title": "doTerra EO Mega™+ 90 db lágyzselatin kapszula",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 25246,
+    "price": 25180,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1700,7 +1716,7 @@
     "title": "doTerra Essential Aromatics Touch Kit 6 db",
     "link": "https://wellshop.hu/Kollekciók és Otthon|Kollekciók és csomagok",
     "description": "doTERRA olajok",
-    "price": 61673,
+    "price": 61514,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1733,7 +1749,7 @@
     "title": "doTerra Esszenciális csonttápanyag komplex 120 kapszula, Bone Nutrient Lifetime Complex",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 10356,
+    "price": 8302,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1744,7 +1760,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -1752,7 +1768,7 @@
     "title": "doTerra Esszenciális olajok kiadvány",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 11640,
+    "price": 11610,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1771,7 +1787,7 @@
     "title": "doTerra Esszenciális olajok kollekciója, Oil Collection - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 964956,
+    "price": 962469,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1843,7 +1859,7 @@
     "title": "doTerra Fekete bors olaj 5 ml, Black Pepper",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 11956,
+    "price": 11765,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1877,7 +1893,7 @@
     "title": "doTerra Fitoösztrogén komplex 60 kapszula, Phytoestrogen Lifetime Complex",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 22866,
+    "price": 17441,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1896,7 +1912,7 @@
     "title": "doTerra Fodormenta olaj 15 ml, Spearmint",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 14125,
+    "price": 14088,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1929,7 +1945,7 @@
     "title": "doTerra Forgive olaj keverék 5 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 13056,
+    "price": 12956,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1945,7 +1961,7 @@
     "title": "doTerra Forgive Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 8692,
+    "price": 8856,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -1961,7 +1977,7 @@
     "title": "doTerra Frakcionált kókuszolaj 115 ml, Fractionated Coconut Oil",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 7956,
+    "price": 7843,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2030,7 +2046,7 @@
     "title": "doTerra Guajakfa olaj 15 ml, Guaiacwood",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 13580,
+    "price": 13545,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2066,7 +2082,7 @@
     "title": "doTerra Gyerek kollekció csomag, Kids Collection",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 60218,
+    "price": 60063,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2082,7 +2098,7 @@
     "title": "doTerra Gyerek, Kids Collection - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 61498,
+    "price": 61339,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2098,7 +2114,7 @@
     "title": "doTerra Gyömbér cukorka 30 szem/zacskó, Ginger Drops",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 7556,
+    "price": 6038,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2109,7 +2125,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2117,7 +2133,7 @@
     "title": "doTerra Gyömbér olaj 15 ml, Ginger",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 21354,
+    "price": 21300,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2151,9 +2167,9 @@
   {
     "id": "Mood-Management-Kit-5db-001",
     "title": "doTerra Hangulatkezelő készlet 4 db olajjal, Mood Management Kit",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/Kollekciók és Otthon|Kollekciók és csomagok",
     "description": "doTERRA olajok",
-    "price": 62656,
+    "price": 61713,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2161,7 +2177,7 @@
       "doTerra termékcsaládok",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2169,7 +2185,7 @@
     "title": "doTerra Hawaii szantálfa olaj 5 ml, Sandalwood Hawaiian",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 41356,
+    "price": 41256,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2186,7 +2202,7 @@
     "title": "doTerra HD Clear arcápoló krém 50 ml, Facial Lotion",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra HD Clear ™ - Bőrápolás",
     "description": "doTERRA olajok",
-    "price": 27808,
+    "price": 27737,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2200,10 +2216,10 @@
   {
     "id": "Facial-Kit-3db-001",
     "title": "doTerra HD Clear csomag, arcápoló készlet 3 db, Facial Kit",
-    "link": "https://wellshop.hu/doTERRA olajok|Készítmények (Kapszulák, Gyöngyöcskék, Vitaminok, krémek)|doTerra krémek",
+    "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra HD Clear ™ - Bőrápolás",
     "description": "doTERRA olajok",
     "price": 29256,
-    "image_link": "https://wellshop.hu/img/95078/Kollekciók és Otthon|Kollekciók és csomagok",
+    "image_link": "https://wellshop.hu/img/95078/Kollekciók és Otthon",
     "categories": [
       "doTERRA olajok",
       "doTerra termékcsaládok",
@@ -2218,7 +2234,7 @@
     "title": "doTerra HD Clear golyós, Roll-On olaj keverék 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 10005,
+    "price": 9980,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2234,7 +2250,7 @@
     "title": "doTerra HD Clear habzó Arclemosó 50 ml, Foaming Face Wash",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra HD Clear ™ - Bőrápolás",
     "description": "doTERRA olajok",
-    "price": 11097,
+    "price": 11069,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2250,7 +2266,7 @@
     "title": "doTerra Hidratáló fürdőszappan 113 g, Moisturising Bath Bar",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 3783,
+    "price": 3774,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2267,7 +2283,7 @@
     "title": "doTerra Hidratáló krém 48 g, Hydrating Cream",
     "link": "https://wellshop.hu/doTERRA olajok|Készítmények (Kapszulák, Gyöngyöcskék, Vitaminok, krémek)|doTerra krémek",
     "description": "doTERRA olajok",
-    "price": 14964,
+    "price": 14925,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2284,7 +2300,7 @@
     "title": "doTerra Hidratáló testpermet 125 ml, Hydrating Body Mist Beautiful Blend",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Spa ™ - Wellness kényeztetés",
     "description": "doTERRA olajok",
-    "price": 19400,
+    "price": 19350,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2316,7 +2332,7 @@
     "title": "doTerra Holiday Peace esszenciális olajkeverék 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 11014,
+    "price": 10986,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2324,7 +2340,7 @@
       "doTerra termékcsaládok",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 1,
     "inventory_policy": 1
   },
   {
@@ -2332,7 +2348,7 @@
     "title": "doTerra Hope Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 15780,
+    "price": 15740,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2348,7 +2364,7 @@
     "title": "doTerra Ilang Ilang olaj 15 ml, Ylang Ylang",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 22856,
+    "price": 18281,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2398,7 +2414,7 @@
     "title": "doTerra InTune golyós, Roll-On olaj keverék 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 19756,
+    "price": 19656,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2414,7 +2430,7 @@
     "title": "doTerra IQ Mega folyékony omega-3 táplálékkiegészítő 150 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 19556,
+    "price": 19456,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2452,7 +2468,7 @@
     "title": "doTerra Jázmin Touch olaj 10 ml, Jasmine Touch",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 20192,
+    "price": 20140,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2468,8 +2484,8 @@
     "title": "doTerra Jóga kollekció 3 db, Yoga Collection Kit",
     "link": "https://wellshop.hu/Kollekciók és Otthon|Karácsony",
     "description": "doTERRA olajok",
-    "price": 29696,
-    "image_link": "https://wellshop.hu/img/95078/",
+    "price": 31356,
+    "image_link": "https://wellshop.hu/img/95078/DoTerra megoldások és célok|Energia, Fókusz és Tanulás",
     "categories": [
       "doTERRA olajok",
       "DoTerra megoldások és célok",
@@ -2484,7 +2500,7 @@
     "title": "doTerra Kakukkfű olaj 15 ml, Thyme",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 17656,
+    "price": 14087,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2501,7 +2517,7 @@
     "title": "doTerra Kanadai fekete luc olaj 5 ml, Black Spruce",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 8744,
+    "price": 8722,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2554,7 +2570,7 @@
     "title": "doTerra Kasszia olaj 15 ml, Cassia",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 9584,
+    "price": 9559,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2571,7 +2587,7 @@
     "title": "doTerra Kék Lótusz Touch 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 27490,
+    "price": 27419,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2623,7 +2639,7 @@
     "title": "doTerra Keserűnarancs olaj 15 ml, Petitgrain",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 11266,
+    "price": 13878,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2640,7 +2656,7 @@
     "title": "doTerra Kéz- és testápoló krém 200 ml, Hand & Body Lotion",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Spa ™ - Wellness kényeztetés",
     "description": "doTERRA olajok",
-    "price": 8685,
+    "price": 8152,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2656,7 +2672,7 @@
     "title": "doTerra Kéz- és testápoló krém 3 db-os csomag, Hand & Body Lotion",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Spa ™ - Wellness kényeztetés",
     "description": "doTERRA olajok",
-    "price": 27548,
+    "price": 27477,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2670,7 +2686,7 @@
   {
     "id": "Beginners-Trio-3db-001",
     "title": "doTerra Kezdő csomag 3x15ml, Beginners Trio",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Immunerősítés és Védelem",
     "description": "doTERRA olajok",
     "price": 33779,
     "image_link": "https://wellshop.hu/img/95078/",
@@ -2687,10 +2703,10 @@
   {
     "id": "together-Kit-Combocs-001",
     "title": "doTerra Kombinált, tōgether kit - belépőcsomag",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/doTERRA olajok|Szabadalmaztatott Keverékek (Blends)",
     "description": "doTERRA olajok",
-    "price": 161505,
-    "image_link": "https://wellshop.hu/img/95078/",
+    "price": 161089,
+    "image_link": "https://wellshop.hu/img/95078/Kollekciók és Otthon|Kollekciók és csomagok",
     "categories": [
       "doTERRA olajok",
       "DoTerra megoldások és célok",
@@ -2708,7 +2724,7 @@
     "title": "doTerra Koriandermag olaj 15 ml, Coriander",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 11873,
+    "price": 11843,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2725,7 +2741,7 @@
     "title": "doTerra Korianderzöld olaj 15 ml, Cilantro",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 11266,
+    "price": 11238,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2761,7 +2777,7 @@
     "title": "doTerra Kulcstartó, szürke + 8 db üveg (Keychain - Grey)",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 5432,
+    "price": 5418,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2810,7 +2826,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 3,
+    "inventory_quantity": 4,
     "inventory_policy": 1
   },
   {
@@ -2818,7 +2834,7 @@
     "title": "doTerra Kurkuma kétkamrás kapszula 60 db-os, Turmeric",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 22866,
+    "price": 22807,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2837,7 +2853,7 @@
     "title": "doTerra Kurkuma olaj 15 ml, Turmeric",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 18156,
+    "price": 14508,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2873,7 +2889,7 @@
     "title": "doTerra Laluz diffúzor és Citrus Bliss olaj 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 34956,
+    "price": 34056,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2892,7 +2908,7 @@
     "title": "doTerra Laluz párologtató 1 db",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 28841,
+    "price": 28766,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2920,7 +2936,7 @@
       "Bőrápolás és szépség",
       "doTerra Bőrápolás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2928,7 +2944,7 @@
     "title": "doTerra Levendula olaj 15 ml, Lavender",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 15895,
+    "price": 13250,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2937,7 +2953,7 @@
       "Esszenciális",
       "önálló olajok (Single Oils)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2945,7 +2961,7 @@
     "title": "doTerra Levendula olaj 5 ml, Lavender",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 6812,
+    "price": 6795,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2962,7 +2978,7 @@
     "title": "doTerra Levendula Touch olaj 10 ml, Lavender Touch",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 10251,
+    "price": 8553,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2978,7 +2994,7 @@
     "title": "doTerra Lime olaj 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 7279,
+    "price": 7261,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -2995,7 +3011,7 @@
     "title": "doTerra Lumo diffúzor és Serenity olaj 15 ml",
     "link": "https://wellshop.hu/Kollekciók és Otthon",
     "description": "doTERRA olajok",
-    "price": 39797,
+    "price": 37360,
     "image_link": "https://wellshop.hu/img/95078/Kollekciók és Otthon|Karácsony",
     "categories": [
       "doTERRA olajok",
@@ -3011,7 +3027,7 @@
     "title": "doTerra Lumo párologtató, diffúzor",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 37471,
+    "price": 37374,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3030,7 +3046,7 @@
     "title": "doTerra Madagaszkár vanília olaj 5 ml, Madagascar Vanilla",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 14982,
+    "price": 19540,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3055,7 +3071,7 @@
       "doTerra termékcsaládok",
       "Higított olajok (golyós)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3137,7 +3153,7 @@
     "title": "doTerra MetaPWR Assist 30 kapszula",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 16256,
+    "price": 15998,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3154,10 +3170,10 @@
   {
     "id": "MetaPWR-kit-5db-001",
     "title": "doTerra MetaPWR csomag 5 db készlet",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Immunerősítés és Védelem",
     "description": "doTERRA olajok",
-    "price": 91361,
-    "image_link": "https://wellshop.hu/img/95078/",
+    "price": 92456,
+    "image_link": "https://wellshop.hu/img/95078/Kollekciók és Otthon|Kollekciók és csomagok",
     "categories": [
       "doTERRA olajok",
       "doTerra termékcsaládok",
@@ -3211,9 +3227,9 @@
   {
     "id": "MetaPWR-15ml-001",
     "title": "doTerra MetaPWR olaj 15 ml",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Emésztés és méregtelenítés",
     "description": "doTERRA olajok",
-    "price": 15156,
+    "price": 12075,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3230,7 +3246,7 @@
     "title": "doTerra MetaPWR™ Advantage kollagén 30 tasak, Gránátalma-cseresznye ízben",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 57296,
+    "price": 57149,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3249,7 +3265,7 @@
     "title": "doTerra MetaPWR™ Mito2Max™ 60 kapszula",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 18328,
+    "price": 18281,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3268,7 +3284,7 @@
     "title": "doTerra MetaPWR™ Recharge lime",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 16477,
+    "price": 21997,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3279,7 +3295,7 @@
       "krémek)",
       "DoTerra megoldások és célok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 1,
     "inventory_policy": 1
   },
   {
@@ -3306,7 +3322,7 @@
     "title": "doTerra Mexikói olajkeverék",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 9058,
+    "price": 9035,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3379,7 +3395,7 @@
     "title": "doTerra Mirha olaj 15 ml, Myrrh",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 30769,
+    "price": 33864,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3412,7 +3428,7 @@
     "title": "doTerra Mito2Max energia és fizikai erőnlét komplex 60 kapszula",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 9058,
+    "price": 9035,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3431,7 +3447,7 @@
     "title": "doTerra Mókus párologtató",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 23707,
+    "price": 23646,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3450,7 +3466,7 @@
     "title": "dōTERRA Mókusos párologtató és dōTERRA Balance™ (15 ml)",
     "link": "https://wellshop.hu/Kollekciók és Otthon",
     "description": "doTERRA olajok",
-    "price": 23707,
+    "price": 23646,
     "image_link": "https://wellshop.hu/img/95078/Kollekciók és Otthon|Kollekciók és csomagok",
     "categories": [
       "doTERRA olajok",
@@ -3573,7 +3589,7 @@
     "title": "doTerra Napi rutin, Daily Habits - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 117855,
+    "price": 117552,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3611,7 +3627,7 @@
     "title": "doTerra Napirutin vegán, Daily Habits - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 117855,
+    "price": 117552,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3645,7 +3661,7 @@
   {
     "id": "Neroli-Touch-10ml-001",
     "title": "doTerra Neroli Touch olaj 10 ml",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Alvás és Stresszoldás",
     "description": "doTERRA olajok",
     "price": 24739,
     "image_link": "https://wellshop.hu/img/95078/",
@@ -3662,7 +3678,7 @@
   {
     "id": "Neshama-Touch-10ml-001",
     "title": "doTerra Neshama Touch 10 ml",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Alvás és Stresszoldás",
     "description": "doTERRA olajok",
     "price": 0,
     "image_link": "https://wellshop.hu/img/95078/",
@@ -3679,9 +3695,9 @@
   {
     "id": "Womens-Health-Kit-3db-001",
     "title": "doTerra Női egészség 3 db-os készlet, Womens Health Kit",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/Kollekciók és Otthon",
     "description": "doTERRA olajok",
-    "price": 44837,
+    "price": 44518,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3692,7 +3708,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3700,7 +3716,7 @@
     "title": "doTerra Öblítés nélküli kondicionáló 237 ml, Leave-In Conditioner",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 8323,
+    "price": 8302,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3738,7 +3754,7 @@
     "title": "doTerra Olajsapka eltávolító 1 db, Oil Cap Remover",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 2716,
+    "price": 2709,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3774,7 +3790,7 @@
     "title": "doTerra Olasz Szalmagyopár Touch olaj 10 ml, Helichrysum Touch",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 24437,
+    "price": 24374,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3790,7 +3806,7 @@
     "title": "doTerra On Guard cukorka 30 szem/zacskó, On Guard Drops",
     "link": "https://wellshop.hu/doTerra termékcsaládok| doTerra On Guard ™ - Immunrendszer",
     "description": "doTERRA olajok",
-    "price": 7556,
+    "price": 7059,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3798,7 +3814,7 @@
       "DoTerra megoldások és célok",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3814,7 +3830,7 @@
       "DoTerra megoldások és célok",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 1,
     "inventory_policy": 1
   },
   {
@@ -3830,7 +3846,7 @@
       "DoTerra megoldások és célok",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 1,
     "inventory_policy": 1
   },
   {
@@ -3838,7 +3854,7 @@
     "title": "doTerra On Guard fogkrém minták 2 ml x 10 db",
     "link": "https://wellshop.hu/DoTerra megoldások és célok|Bőrápolás és szépség|doTerra Szájápolás",
     "description": "doTERRA olajok",
-    "price": 3233,
+    "price": 3224,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3854,7 +3870,7 @@
     "title": "doTerra On Guard fogselyem 50 méter, On Guard Floss",
     "link": "https://wellshop.hu/DoTerra megoldások és célok|Bőrápolás és szépség|doTerra Szájápolás",
     "description": "doTERRA olajok",
-    "price": 3880,
+    "price": 3870,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3870,7 +3886,7 @@
     "title": "doTerra On Guard gyöngyöcskék olaj keverék 125 gyöngy, Beadlets",
     "link": "https://wellshop.hu/doTERRA olajok|Szabadalmaztatott Keverékek (Blends)",
     "description": "doTERRA olajok",
-    "price": 8856,
+    "price": 7044,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3878,7 +3894,7 @@
       "DoTerra megoldások és célok",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3887,7 +3903,7 @@
     "link": "https://wellshop.hu/DoTerra megoldások és célok|Immunerősítés és Védelem",
     "description": "doTERRA olajok",
     "price": 12121,
-    "image_link": "https://wellshop.hu/img/95078/doTerra termékcsaládok| doTerra On Guard ™ - Immunrendszer",
+    "image_link": "https://wellshop.hu/img/95078/DoTerra megoldások és célok|Bőrápolás és szépség|doTerra Bőrápolás",
     "categories": [
       "doTERRA olajok",
       "doTerra termékcsaládok",
@@ -3902,7 +3918,7 @@
     "title": "doTerra On Guard habzó kézmosó 473 ml, Foaming Hand Wash",
     "link": "https://wellshop.hu/DoTerra megoldások és célok|Immunerősítés és Védelem",
     "description": "doTERRA olajok",
-    "price": 10884,
+    "price": 10856,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3921,7 +3937,7 @@
     "title": "doTerra On Guard habzó kézmosó adagoló 1 db, Foaming Hand Wash Dispenser",
     "link": "https://wellshop.hu/DoTerra megoldások és célok|Immunerősítés és Védelem",
     "description": "doTERRA olajok",
-    "price": 1380,
+    "price": 1377,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -3933,25 +3949,6 @@
       "krémek)"
     ],
     "inventory_quantity": 0,
-    "inventory_policy": 1
-  },
-  {
-    "id": "Foaming-Hand-Wash-2db-keszlet-001",
-    "title": "doTerra On Guard habzó kézmosó x 2, Foaming Hand Wash",
-    "link": "https://wellshop.hu/DoTerra megoldások és célok|Immunerősítés és Védelem",
-    "description": "doTERRA olajok",
-    "price": 19568,
-    "image_link": "https://wellshop.hu/img/95078/",
-    "categories": [
-      "doTERRA olajok",
-      "doTerra termékcsaládok",
-      "DoTerra megoldások és célok",
-      "Készítmények (Kapszulák",
-      "Gyöngyöcskék",
-      "Vitaminok",
-      "krémek)"
-    ],
-    "inventory_quantity": 1,
     "inventory_policy": 1
   },
   {
@@ -3967,7 +3964,7 @@
       "DoTerra megoldások és célok",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3991,7 +3988,7 @@
     "title": "doTerra On Guard kéztisztító permet olaj keverék 5 x 27 ml, Hand Purifying",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 21857,
+    "price": 21800,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4010,7 +4007,7 @@
     "title": "doTerra On Guard mosószer 947 ml, Laundry Detergent",
     "link": "https://wellshop.hu/doTerra termékcsaládok| doTerra On Guard ™ - Immunrendszer",
     "description": "doTERRA olajok",
-    "price": 17383,
+    "price": 17338,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4045,7 +4042,7 @@
     "title": "doTerra On Guard szájvíz 473 ml, On Guard Mouthwash",
     "link": "https://wellshop.hu/doTerra termékcsaládok| doTerra On Guard ™ - Immunrendszer",
     "description": "doTERRA olajok",
-    "price": 8060,
+    "price": 8039,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4115,7 +4112,7 @@
     "title": "doTerra On Guard™ habzó kézmosó koncentrátum 237 ml",
     "link": "https://wellshop.hu/DoTerra megoldások és célok|Immunerősítés és Védelem",
     "description": "doTERRA olajok",
-    "price": 8911,
+    "price": 8888,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4168,9 +4165,9 @@
   {
     "id": "Oregano-Touch-10ml-001",
     "title": "doTerra Oregánó Touch olaj 10 ml, Oregano Touch",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Emésztés és méregtelenítés",
     "description": "doTERRA olajok",
-    "price": 8071,
+    "price": 8050,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4221,7 +4218,7 @@
     "title": "doTerra Óriás Tuja olaj 5 ml, Arborvitae",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 10005,
+    "price": 9980,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4255,7 +4252,7 @@
     "title": "doTerra Otthon, Home Essentials - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 135897,
+    "price": 135547,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4274,7 +4271,7 @@
     "title": "doTerra Pacsuli olaj 15 ml, Patchouli",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 13703,
+    "price": 13667,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4308,7 +4305,7 @@
     "title": "doTerra Passion olaj keverék 5 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 22039,
+    "price": 21982,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4356,7 +4353,7 @@
     "title": "doTerra PB Assist+ 30 kapszula",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 17257,
+    "price": 17212,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4375,7 +4372,7 @@
     "title": "doTerra PB Assist+™ Táplálékkiegészítő élő baktériumkultúrákkal",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 17456,
+    "price": 17356,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4432,7 +4429,7 @@
     "title": "doTerra Peace olaj keverék 5 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 14545,
+    "price": 14508,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4464,7 +4461,7 @@
     "title": "doTerra Petal párologtató, diffúzor 1 db",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 30136,
+    "price": 30059,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4481,10 +4478,10 @@
   {
     "id": "Petal-Diffuser-2---5-ml-Lav---W-Orange-Combocs-001",
     "title": "doTerra Petal párologtató, diffúzor és levendula olaj 5 ml + vadnarancs olaj 5 ml",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Légzés és allergia",
     "description": "doTERRA olajok",
-    "price": 29353,
-    "image_link": "https://wellshop.hu/img/95078/",
+    "price": 29277,
+    "image_link": "https://wellshop.hu/img/95078/Kollekciók és Otthon|Párologtatók",
     "categories": [
       "doTERRA olajok",
       "DoTerra megoldások és célok",
@@ -4555,7 +4552,7 @@
     "title": "doTerra Póruscsökkentő toner 118 ml, Pore Reducing Toner",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 10036,
+    "price": 10010,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4572,7 +4569,7 @@
     "title": "doTerra Pumpás fej frakcionált kókuszolajhoz 1 db, Fractionated Coconut Oil Pump",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 1552,
+    "price": 1548,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4591,7 +4588,7 @@
     "title": "doTerra Purify olaj keverék 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 10845,
+    "price": 10817,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4673,9 +4670,9 @@
   {
     "id": "Rose-Touch-10ml-001",
     "title": "doTerra Rózsa - Rose Touch olaj 10 ml",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|doTerra nőknek",
     "description": "doTERRA olajok",
-    "price": 36836,
+    "price": 36741,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4778,7 +4775,7 @@
     "title": "doTerra Serenity fürdőszappan 113 g, Serenity Bath Bar",
     "link": "https://wellshop.hu/DoTerra megoldások és célok|Alvás és Stresszoldás",
     "description": "doTERRA olajok",
-    "price": 3783,
+    "price": 3774,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4795,7 +4792,7 @@
     "title": "doTerra Serenity kombinált csomag olaj keverék + kapszula",
     "link": "https://wellshop.hu/Kollekciók és Otthon|Kollekciók és csomagok",
     "description": "doTERRA olajok",
-    "price": 30607,
+    "price": 30529,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4811,7 +4808,7 @@
     "title": "doTerra Serenity lágyzselé olaj keverék 60 kapszula, Softgels",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 14841,
+    "price": 14803,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4830,7 +4827,7 @@
     "title": "doTerra Serenity olaj keverék 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 20445,
+    "price": 20392,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4846,7 +4843,7 @@
     "title": "doTerra Serenity™ stift + Orvosi macskagyökér",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Serenity  ™ - Nyugodt alvás",
     "description": "doTERRA olajok",
-    "price": 10115,
+    "price": 10090,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4900,7 +4897,7 @@
     "title": "doTerra Shinrin-Yoku™ Erdőfürdőzés keverék 5 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 25219748,
+    "price": 2516,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4916,7 +4913,7 @@
     "title": "doTerra Shinrin-Yoku™ Touch Erdőfürdőzés keverék 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 9164,
+    "price": 9139,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4964,7 +4961,7 @@
     "title": "doTerra SPA alapcsomag, Basics Kit",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 12961,
+    "price": 14366,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -4981,7 +4978,7 @@
     "title": "doTerra Spanyol Zsálya olaj 15 ml, Spanish Sage",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 12106,
+    "price": 12075,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5030,7 +5027,7 @@
     "title": "doTerra Sun ajakbalzsam",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Sun ™ - Fényvédelem",
     "description": "doTERRA olajok",
-    "price": 5213,
+    "price": 5200,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5064,7 +5061,7 @@
     "title": "doTerra Sun ásványi fényvédő krém arcra és testre 150 ml, sun Face & Body Mineral Sunscreen Lotion új",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Sun ™ - Fényvédelem",
     "description": "doTERRA olajok",
-    "price": 13258,
+    "price": 13224,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5081,7 +5078,7 @@
     "title": "doTerra Sun ásványi fényvédő spray testre 150 ml, sun Body Mineral Sunscreen Spray",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Sun ™ - Fényvédelem",
     "description": "doTERRA olajok",
-    "price": 15210,
+    "price": 15171,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5098,7 +5095,7 @@
     "title": "doTerra Sun ásványi fényvédő stift arcra és testre 50 g, sun Face & Body Mineral Sunscreen Stick",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Sun ™ - Fényvédelem",
     "description": "doTERRA olajok",
-    "price": 13556,
+    "price": 13521,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5115,7 +5112,7 @@
     "title": "doTerra Sun mindennapos ásványi fényvédő és hidratálókrém arcra",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Sun ™ - Fényvédelem",
     "description": "doTERRA olajok",
-    "price": 14992,
+    "price": 14954,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5132,7 +5129,7 @@
     "title": "doTerra Sun napozás utáni testápoló spray 170 g, sun After Sun Body Spray",
     "link": "https://wellshop.hu/doTerra termékcsaládok|doTerra Sun ™ - Fényvédelem",
     "description": "doTERRA olajok",
-    "price": 12479,
+    "price": 12446,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5165,7 +5162,7 @@
     "title": "doTerra Supermint olaj keverék 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 13693,
+    "price": 13658,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5181,7 +5178,7 @@
     "title": "doTerra Supermint Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 9332,
+    "price": 9308,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5197,7 +5194,7 @@
     "title": "doTerra SuperMint™ fogkrém",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 4961,
+    "price": 4949,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5235,7 +5232,7 @@
     "title": "doTerra Szantálfa olaj 5 ml, Sandalwood",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 46148,
+    "price": 40559,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5286,7 +5283,7 @@
     "title": "doTerra Szibériai Fenyő olaj 15 ml, Siberian Fir",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 10956,
+    "price": 10856,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5303,7 +5300,7 @@
     "title": "doTerra Tamer Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 8750,
+    "price": 8728,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5364,7 +5361,7 @@
       "Esszenciális",
       "önálló olajok (Single Oils)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5389,7 +5386,7 @@
     "title": "doTerra Természetes megoldások vegán, Natural Solutions - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 349200,
+    "price": 348300,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5408,7 +5405,7 @@
     "title": "doTerra Természetes megoldások, Natural Solutions - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 347551,
+    "price": 346655,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5427,7 +5424,7 @@
     "title": "doTerra TerraGreens 30 adag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 21329,
+    "price": 21274,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5462,7 +5459,7 @@
     "title": "doTerra TerraShield olaj keverék 15 ml új",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 7658,
+    "price": 7639,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5551,7 +5548,7 @@
     "title": "doTerra Tisztító és megújító csomag: 1 db PB Restore és 1 db GX Assist, Cleanse & Renew Kit",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 37356,
+    "price": 37256,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5570,7 +5567,7 @@
     "title": "doTerra Tisztító és visszaállító, Cleanse & Restore - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 129010,
+    "price": 128677,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5587,9 +5584,9 @@
   {
     "id": "Frankincense-15ml-001",
     "title": "doTerra Tömjén olaj 15 ml, Frankincense",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Longevity támogató",
     "description": "doTERRA olajok",
-    "price": 41556,
+    "price": 41456,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5598,13 +5595,13 @@
       "Esszenciális",
       "önálló olajok (Single Oils)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
     "id": "Frankincense-Touch-10ml-001",
     "title": "doTerra Tömjén Touch olaj 10 ml, Frankincense Touch",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Bőrápolás és szépség",
     "description": "doTERRA olajok",
     "price": 26956,
     "image_link": "https://wellshop.hu/img/95078/",
@@ -5623,7 +5620,7 @@
     "title": "doTerra Touch 9 db-os készlet",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 116400,
+    "price": 116100,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5674,7 +5671,7 @@
     "title": "doTerra Üzleti vezető, Business Leader - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 1349949,
+    "price": 1346470,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5710,7 +5707,7 @@
     "title": "doTerra Vadnarancs olaj 5 ml, Wild Orange",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 3076,
+    "price": 3068,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5727,7 +5724,7 @@
     "title": "doTerra Vaníliás növényi fehérje, Vanilla Plant Protein",
     "link": "https://wellshop.hu/DoTerra megoldások és célok|Energia, Fókusz és Tanulás",
     "description": "doTERRA olajok",
-    "price": 18747,
+    "price": 18698,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5757,7 +5754,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5784,7 +5781,7 @@
     "title": "doTerra Vegán üzleti, Business Leader Vegan - belépőcsomag",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 1349949,
+    "price": 1346470,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5803,7 +5800,7 @@
     "title": "doTerra vEO Mega 120 kapszula",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 26146,
+    "price": 26079,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5841,7 +5838,7 @@
     "title": "doTerra Veráge Bőrápoló 4 db-os kollekció, Skin Care Collection",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 66840,
+    "price": 66667,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5860,7 +5857,7 @@
     "title": "doTerra Veráge hidratálókrém 30 ml, Moisturiser",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 15313,
+    "price": 15273,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5932,7 +5929,7 @@
     "title": "doTerra Vetiver Touch 10 ml, Vetiveria zizanioides",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 21856,
+    "price": 21756,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5965,7 +5962,7 @@
     "title": "doTerra VMG+™ 30 tasak",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 48631,
+    "price": 48506,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -5984,7 +5981,7 @@
     "title": "doTerra Volo diffúzor márvány és zöld mandarin olaj 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 29100,
+    "price": 29025,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6001,7 +5998,7 @@
     "title": "doTerra Volo diffúzor Onyx 1 db",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 22310,
+    "price": 22253,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6020,7 +6017,7 @@
     "title": "doTerra Volo márvány diffúzor 1 db",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 22310,
+    "price": 22253,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6039,7 +6036,7 @@
     "title": "doTerra Volo Onyx diffúzor és zöld mandarin olaj 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 29100,
+    "price": 29025,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6075,7 +6072,7 @@
     "title": "doTerra Vörös Cédrus olaj 15 ml, Cedarwood",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 8656,
+    "price": 8556,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6125,7 +6122,7 @@
     "title": "doTerra xEO Mega 120 kapszula",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 24437,
+    "price": 24374,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6144,7 +6141,7 @@
     "title": "doTerra Yarrow Pom testmegújító szérum 100 ml, Yarrow Pom Body Renewal Serum",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 34868,
+    "price": 34778,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6161,7 +6158,7 @@
     "title": "doTerra Zellermag olaj 15 ml, Celery Seed",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 19756,
+    "price": 19656,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6178,7 +6175,7 @@
     "title": "doTerra Zendocrine Complex 60 tábla",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 16037,
+    "price": 15995,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6197,7 +6194,7 @@
     "title": "doTerra Zendocrine lágyzselé olaj keverék 60 kapszula",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 11073,
+    "price": 12593,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6205,7 +6202,7 @@
       "doTerra termékcsaládok",
       "Longevity támogató"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 1,
     "inventory_policy": 1
   },
   {
@@ -6213,7 +6210,7 @@
     "title": "doTerra Zendocrine olaj keverék 15 ml",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 15156,
+    "price": 15056,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6245,7 +6242,7 @@
     "title": "doTerra ZenGest lágyzselé olaj keverék 60 kapszula",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 12424,
+    "price": 12393,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6269,7 +6266,7 @@
       "DoTerra megoldások és célok",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -6293,7 +6290,7 @@
     "title": "doTerra Zöld mandarin olaj 15 ml, Green Mandarin",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 12442,
+    "price": 12410,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6382,7 +6379,7 @@
     "title": "Tömjén mikrogyöngyös kapszula",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 26164,
+    "price": 26096,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6401,7 +6398,7 @@
     "title": "Tömjén stift + Naiofa",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 26164,
+    "price": 26096,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6420,7 +6417,7 @@
     "title": "Újratölthető kézmosó adagoló - Hand Wash Refillable Dispenser",
     "link": "https://wellshop.hu/",
     "description": "doTERRA olajok",
-    "price": 6080,
+    "price": 6065,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -6503,7 +6500,7 @@
     "title": "doTerra 30 ml-es szórófejes üveg – 3 db, Sprayer Bottle",
     "link": "https://wellshop.hu/",
     "description": "Kollekciók és Otthon",
-    "price": 2588,
+    "price": 2582,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "Kollekciók és Otthon"
@@ -6528,7 +6525,7 @@
   {
     "id": "Bemutato-csomag-4perc-001",
     "title": "doTerra Bemutató csomag 4 db",
-    "link": "https://wellshop.hu/",
+    "link": "https://wellshop.hu/DoTerra megoldások és célok|Légzés és allergia",
     "description": "Kollekciók és Otthon",
     "price": 3929.13,
     "image_link": "https://wellshop.hu/img/95078/",
@@ -6548,7 +6545,7 @@
     "title": "doTerra Borostyán görgős palackok 6 db-os csomag, Amber Roller Bottles",
     "link": "https://wellshop.hu/",
     "description": "Kollekciók és Otthon",
-    "price": 3233,
+    "price": 3224,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "Kollekciók és Otthon",
@@ -6591,16 +6588,16 @@
     "title": "doTerra On Guard habzó kézmosó adagoló x 3, Foaming Hand Wash Dispenser",
     "link": "https://wellshop.hu/",
     "description": "Kollekciók és Otthon",
-    "price": 3312,
+    "price": 3259.84251968503,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "Kollekciók és Otthon",
       "doTerra termékcsaládok",
       "DoTerra megoldások és célok",
-      "doTerra a Háztarartásban",
+      "doTerra a Háztartásban",
       "Kiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -6608,7 +6605,7 @@
     "title": "doTerra Zöldségkapszulák 160 üres kapszula, Veggie Caps",
     "link": "https://wellshop.hu/",
     "description": "Kollekciók és Otthon",
-    "price": 3364,
+    "price": 3356,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "Kollekciók és Otthon",
