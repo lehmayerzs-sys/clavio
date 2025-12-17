@@ -17,7 +17,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -32,7 +32,7 @@
       "Kollekciók és Otthon",
       "Karácsony"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -47,7 +47,7 @@
       "Kollekciók és Otthon",
       "Karácsony"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -60,7 +60,7 @@
     "categories": [
       "Szolgáltatások"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -73,7 +73,7 @@
     "categories": [
       "Szolgáltatások"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -86,7 +86,7 @@
     "categories": [
       "Szolgáltatások"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -99,7 +99,7 @@
     "categories": [
       "Szolgáltatások"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -112,7 +112,7 @@
     "categories": [
       "Szolgáltatások"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -125,7 +125,7 @@
     "categories": [
       "Szolgáltatások"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -237,7 +237,7 @@
       "doTerra gyermekeknek",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -294,7 +294,7 @@
       "Doterra ZenGest ™ - Emésztés támogató",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -313,7 +313,7 @@
       "Higított olajok (golyós)",
       "Doterra ZenGest ™ - Emésztés támogató"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -334,7 +334,7 @@
       "Légzés és allergia",
       "doTerra Air ™ - Légzés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -353,7 +353,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTerra Air ™ - Légzés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -412,7 +412,7 @@
       "krémek)",
       "doTerra Spa ™ - Wellness kényeztetés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -491,7 +491,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -570,7 +570,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -588,7 +588,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -810,7 +810,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTerra Balance ™ - Egyensúly"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -850,7 +850,7 @@
       "Higított olajok (golyós)",
       "doTerra Balance ™ - Egyensúly"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -871,7 +871,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -890,7 +890,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -935,7 +935,7 @@
       "Immunerősítés és Védelem",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -995,7 +995,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1018,7 +1018,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1037,7 +1037,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1092,7 +1092,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1131,7 +1131,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1168,7 +1168,7 @@
       "Légzés és allergia",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1267,7 +1267,7 @@
       "doTerra nőknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1321,7 +1321,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "Higított olajok (golyós)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1339,7 +1339,7 @@
       "Esszenciális",
       "önálló olajok (Single Oils)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1404,7 +1404,7 @@
       "Longevity támogató",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1634,7 +1634,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1657,7 +1657,7 @@
       "doTerra táplálékkiegészítők",
       "doTerra Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1680,7 +1680,7 @@
       "doTerra krémek",
       "doTerra Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1722,7 +1722,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1742,7 +1742,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTerra Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1764,7 +1764,7 @@
       "doTerra táplálékkiegészítők",
       "Doterra ZenGest ™ - Emésztés támogató"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1828,7 +1828,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1865,7 +1865,7 @@
       "önálló olajok (Single Oils)",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2026,7 +2026,7 @@
       "doTerra nőknek",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2086,7 +2086,7 @@
       "önálló olajok (Single Oils)",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2189,7 +2189,7 @@
       "doTerra nőknek",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2210,7 +2210,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2262,7 +2262,7 @@
       "Higított olajok (golyós)",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2283,7 +2283,7 @@
       "Kollekciók és Otthon",
       "Kiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2342,7 +2342,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2435,7 +2435,7 @@
       "krémek)",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2619,7 +2619,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2642,7 +2642,7 @@
       "krémek)",
       "doTerra krémek"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2683,7 +2683,7 @@
       "Karácsony",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2739,7 +2739,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2778,7 +2778,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2816,7 +2816,7 @@
       "krémek)",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2839,7 +2839,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2858,7 +2858,7 @@
       "Bőrápolás és szépség",
       "doTerra nőknek"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2899,7 +2899,7 @@
       "Immunerősítés és Védelem",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2918,7 +2918,7 @@
       "Légzés és allergia",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2995,7 +2995,7 @@
       "Higított olajok (golyós)",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3054,7 +3054,7 @@
       "Alvás és Stresszoldás",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3162,7 +3162,7 @@
       "önálló olajok (Single Oils)",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3180,7 +3180,7 @@
       "önálló olajok (Single Oils)",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3264,7 +3264,7 @@
       "Kollekciók és Otthon",
       "Kiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3283,7 +3283,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3389,7 +3389,7 @@
       "Légzés és allergia",
       "doTerra Air ™ - Légzés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3408,7 +3408,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3427,7 +3427,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3524,7 +3524,7 @@
       "önálló olajok (Single Oils)",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3542,7 +3542,7 @@
       "Alvás és Stresszoldás",
       "doTerra nőknek"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3562,7 +3562,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3653,7 +3653,7 @@
       "doTerra MetaPWR ™ - Energetizáló",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3702,7 +3702,7 @@
       "doTerra MetaPWR ™ - Energetizáló",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3724,7 +3724,7 @@
       "Fókusz és Tanulás",
       "doTerra MetaPWR ™ - Energetizáló"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3744,7 +3744,7 @@
       "doTerra MetaPWR ™ - Energetizáló",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3790,7 +3790,7 @@
       "doTerra MetaPWR ™ - Energetizáló",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3935,7 +3935,7 @@
       "önálló olajok (Single Oils)",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3995,7 +3995,7 @@
       "Kollekciók és Otthon",
       "Párologtatók"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4021,7 +4021,7 @@
       "Légzés és allergia",
       "Karácsony"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4077,7 +4077,7 @@
       "Bőrápolás és szépség",
       "doTerra nőknek"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4097,7 +4097,7 @@
       "Alvás és Stresszoldás",
       "doTerra nőknek"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4290,7 +4290,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4311,7 +4311,7 @@
       "Bőrápolás és szépség",
       "doTerra Hajápolás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4409,7 +4409,7 @@
       "Immunerősítés és Védelem",
       "doTerra On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4523,7 +4523,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTerra On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4570,7 +4570,7 @@
       "Immunerősítés és Védelem",
       "doTerra On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4687,7 +4687,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTerra On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4709,7 +4709,7 @@
       "Immunerősítés és Védelem",
       "doTerra On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4731,7 +4731,7 @@
       "Immunerősítés és Védelem",
       "doTerra On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4750,7 +4750,7 @@
       "Higított olajok (golyós)",
       "doTerra On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4768,7 +4768,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTerra On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4831,7 +4831,7 @@
       "Immunerősítés és Védelem",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4851,7 +4851,7 @@
       "Immunerősítés és Védelem",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4913,7 +4913,7 @@
       "Immunerősítés és Védelem",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4973,7 +4973,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5026,7 +5026,7 @@
       "Higított olajok (golyós)",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5045,7 +5045,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5086,7 +5086,7 @@
       "doTerra gyermekeknek",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5107,7 +5107,7 @@
       "Longevity támogató",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5145,7 +5145,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5163,7 +5163,7 @@
       "Higított olajok (golyós)",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5307,7 +5307,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5323,7 +5323,7 @@
       "doTerra termékcsaládok",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5341,7 +5341,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "Higított olajok (golyós)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5379,7 +5379,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5399,7 +5399,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5440,7 +5440,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5500,7 +5500,7 @@
       "Bőrápolás és szépség",
       "doTerra Hajápolás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5580,7 +5580,7 @@
       "Alvás és Stresszoldás",
       "doTerra Serenity ™ - Nyugodt alvás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5621,7 +5621,7 @@
       "doTerra Serenity ™ - Nyugodt alvás",
       "doTerra Bőrápolás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5695,7 +5695,7 @@
       "Higított olajok (golyós)",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5767,7 +5767,7 @@
       "Esszenciális",
       "önálló olajok (Single Oils)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5784,7 +5784,7 @@
       "doTerra gyermekeknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5801,7 +5801,7 @@
       "doTerra gyermekeknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5824,7 +5824,7 @@
       "krémek)",
       "doTerra Sun ™ - Fényvédelem"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5868,7 +5868,7 @@
       "krémek)",
       "doTerra Sun ™ - Fényvédelem"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5935,7 +5935,7 @@
       "krémek)",
       "doTerra Sun ™ - Fényvédelem"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5957,7 +5957,7 @@
       "krémek)",
       "doTerra Sun ™ - Fényvédelem"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5992,7 +5992,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6011,7 +6011,7 @@
       "Higított olajok (golyós)",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6032,7 +6032,7 @@
       "Bőrápolás és szépség",
       "doTerra Szájápolás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6091,7 +6091,7 @@
       "Immunerősítés és Védelem",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6163,7 +6163,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6201,7 +6201,7 @@
       "Bőrápolás és szépség",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6293,7 +6293,7 @@
       "Immunerősítés és Védelem",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6351,7 +6351,7 @@
       "doTerra táplálékkiegészítők",
       "Doterra ZenGest ™ - Emésztés támogató"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6453,7 +6453,7 @@
       "Bőrápolás és szépség",
       "Longevity támogató"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6570,7 +6570,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6589,7 +6589,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6698,7 +6698,7 @@
       "doTerra Vitamninok",
       "Napi vitalitás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6855,7 +6855,7 @@
       "önálló olajok (Single Oils)",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7035,7 +7035,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7059,7 +7059,7 @@
       "Napi vitalitás",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7195,7 +7195,7 @@
       "krémek)",
       "doTerra táplálékkiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7230,7 +7230,7 @@
       "Higított olajok (golyós)",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7249,7 +7249,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7305,7 +7305,7 @@
       "Esszenciális",
       "önálló olajok (Single Oils)"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7370,7 +7370,7 @@
       "krémek)",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7412,7 +7412,7 @@
       "Kollekciók és Otthon",
       "Párologtatók"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7493,7 +7493,7 @@
       "Kollekciók és Otthon",
       "Kiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7543,7 +7543,7 @@
       "Kollekciók és Otthon",
       "doTerra termékcsaládok"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7572,7 +7572,7 @@
       "doTerra termékcsaládok",
       "Kiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7609,7 +7609,7 @@
       "Kollekciók és Otthon",
       "Kiegészítők"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7624,7 +7624,7 @@
       "Párologtatók",
       "doTerra termékcsaládok"
     ],
-    "inventory_quantity": 1,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   }
 ]
