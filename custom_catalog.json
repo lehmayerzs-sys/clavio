@@ -1004,7 +1004,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4759,7 +4759,7 @@
     "title": "doTerra On Guard Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-on-guard-touch-10-ml",
     "description": "Védje családját a természet erejével egyetlen mozdulattal! Az On Guard Touch egy kényelmes, előre hígított, golyós kiszerelésű védőkeverék, amely azonnali energiát és támogatást nyújt a rohanó mindennapokban.",
-    "price": 13278,
+    "price": 14456,
     "image_link": "https://wellshop.hu/img/95078/On-Guard-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5036,7 +5036,7 @@
     "title": "doTerra Passion Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-passion-touch-10-ml",
     "description": "Ébressze fel újra a lelkesedést és az életörömöt! A Passion Touch fűszeres, meleg aromája segít elűzni az unalmat, inspirációt ad, és bátorságot önt Önbe, hogy újra szenvedéllyel és kreativitással élje meg a mindennapokat.",
-    "price": 15595,
+    "price": 16856,
     "image_link": "https://wellshop.hu/img/95078/Passion-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -7366,7 +7366,7 @@
       "krémek)",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
