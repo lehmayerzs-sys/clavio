@@ -1661,7 +1661,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2130,7 +2130,7 @@
       "Immunerősítés és Védelem",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2348,7 +2348,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2974,7 +2974,7 @@
     "title": "doTerra Kasszia olaj 15 ml, Cassia",
     "link": "https://wellshop.hu/onallo-doterra-olaj-kasszia-15-ml",
     "description": "A fahéjjal meglehetősen közeli rokonságban álló kassziának erőteljes, fűszeres aromája van. A kassziaolaj főzés közben is remekül hasznosítható: akár fahéj helyett pitékhez és kenyerekhez, akár önmagában különféle előételekhez és desszertekhez.",
-    "price": 11356,
+    "price": 11456,
     "image_link": "https://wellshop.hu/img/95078/Cassia-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -3309,7 +3309,7 @@
       "Emésztés és méregtelenítés",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3505,7 +3505,7 @@
     "title": "doTerra Madagaszkár vanília olaj 5 ml, Madagascar Vanilla",
     "link": "https://wellshop.hu/onallo-doterra-olaj-madagaszkar-vanilia-5-ml",
     "description": "Ismerős és nosztalgikus. A vanília a világ egyik legnépszerűbb aromája. A madagaszkári vanília egy abszolút, amelyet frakcionált kókuszolajjal elegyítünk. Használja ellenállhatatlan, személyes illatszerként!",
-    "price": 19756,
+    "price": 19856,
     "image_link": "https://wellshop.hu/img/95078/Madagascar-Vanilla-5ml-001",
     "categories": [
       "doTERRA olajok",
@@ -3603,7 +3603,7 @@
     "title": "doTerra MetaPWR Advantage kollagén 30 tasak",
     "link": "https://wellshop.hu/doterra-metapwr-metapwr-advantage-30-db",
     "description": "Építse újjá sejtjeit és lassítsa az öregedést belülről! A MetaPWR Advantage kilencféle tengeri kollagénnel és NMN-nel támogatja az anyagcserét, feszesíti a bőrt, és segít, hogy élete ereje teljében tündököljön.",
-    "price": 44256,
+    "price": 44356,
     "image_link": "https://wellshop.hu/img/95078/MetaPWR-Advantage-30db-001",
     "categories": [
       "doTERRA olajok",
@@ -4394,7 +4394,7 @@
     "title": "doTerra On Guard cukorka 30 szem/zacskó, On Guard Drops",
     "link": "https://wellshop.hu/doterra-on-guard-on-guard-cukorka-30-csepp",
     "description": "A természetes védelem, amit bárhová magával vihet! A dōTERRA On Guard cukorka finom pasztilla formájában nyugtatja a torkot és támogatja a szervezet védelmi vonalát a fűszeres, melengető olajok erejével.",
-    "price": 6795,
+    "price": 7156,
     "image_link": "https://wellshop.hu/img/95078/On-Guard-Drops-30csepp-001",
     "categories": [
       "doTERRA olajok",
@@ -4749,7 +4749,7 @@
       "Immunerősítés és Védelem",
       "doTerra On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5056,7 +5056,7 @@
     "title": "doTerra Passion Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-passion-touch-10-ml",
     "description": "Ébressze fel újra a lelkesedést és az életörömöt! A Passion Touch fűszeres, meleg aromája segít elűzni az unalmat, inspirációt ad, és bátorságot önt Önbe, hogy újra szenvedéllyel és kreativitással élje meg a mindennapokat.",
-    "price": 15756,
+    "price": 15735,
     "image_link": "https://wellshop.hu/img/95078/Passion-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5640,7 +5640,7 @@
     "title": "doTerra Serenity™ stift + Orvosi macskagyökér",
     "link": "https://wellshop.hu/Serenity-stift-Orvosi-macskagyoker",
     "description": "Gondoskodjon az éjszakai pihenésről maszatolás nélkül! A Serenity stift az Orvosi macskagyökér és a pihentető esszenciális olajok erejével lágyan csillapítja az idegeket, és gyengéd felvitelt biztosít a nyugodt alváshoz.",
-    "price": 8466,
+    "price": 9144,
     "image_link": "https://wellshop.hu/img/95078/serenity_stift_001",
     "categories": [
       "doTERRA olajok",
@@ -5792,7 +5792,7 @@
     "title": "doTerra Spanyol Zsálya olaj 15 ml, Spanish Sage",
     "link": "https://wellshop.hu/onallo-doterra-olaj-spanyol-zsalya-15-ml",
     "description": "A spanyol zsálya leveléből és szárából gőzlepárlással kinyert esszenciális olaj aromája kámforos, gyógynövényes, zsályára emlékeztető. Kedélyjavító és nyugtató hatású, ideális testmozgás utáni használatra vagy mélyszöveti masszázshoz.",
-    "price": 14756,
+    "price": 14856,
     "image_link": "https://wellshop.hu/img/95078/Spanish-Sage-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5967,7 +5967,7 @@
       "krémek)",
       "doTerra Sun ™ - Fényvédelem"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -6182,7 +6182,7 @@
     "title": "doTerra Tangerin olaj 15 ml, Tangerine",
     "link": "https://wellshop.hu/onallo-doterra-olaj-tangerin-15-ml",
     "description": "A tangerin igen hosszú múltra tekint vissza a kínai kultúrában. Magas limonéntartalma miatt édes, ugyanakkor kesernyés íze egyszerre vált ki felemelő és megnyugtató érzést. Bármilyen, citrust kívánó ételt remekül kiegészít.",
-    "price": 8056,
+    "price": 8156,
     "image_link": "https://wellshop.hu/img/95078/Tangerine-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -6533,7 +6533,7 @@
     "title": "doTerra TriEase lágyzselé olaj keverék 60 kapszula, TriEase Softgels",
     "link": "https://wellshop.hu/doterra-keverek-olaj-triease-lagyzsele-kapszula-60-kap",
     "description": "A természetes védelem a szezonális változások idején! A TriEase kapszula a citrom, a levendula és a borsmenta klasszikus harmóniájával támogatja a tiszta légzést és a szervezet védelmi rendszereit az allergének ellen.",
-    "price": 13856,
+    "price": 13249,
     "image_link": "https://wellshop.hu/img/95078/TriEase-Softgels-60kap-001",
     "categories": [
       "doTERRA olajok",
@@ -7551,7 +7551,7 @@
       "Kollekciók és Otthon",
       "Kiegészítők"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
