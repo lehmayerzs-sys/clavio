@@ -2747,7 +2747,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2774,7 +2774,7 @@
     "title": "doTerra Indiai Citromfű olaj 15 ml, Lemongrass",
     "link": "https://wellshop.hu/onallo-doterra-olaj-indiai-citromfu-15-ml",
     "description": "Az indiai citromfűből füstös, citrusos esszenciális olaj állítható elő, amely számos előnyt kínál használójának. Az ázsiai gasztronómia már régóta alkalmazza az indiai citromfű esszenciális olajat levesek, teák és curryfélék elkészítéséhez, valamint hal-, szárnyas-, marha- és tengeri ételek ízesítéséhez is.",
-    "price": 6933,
+    "price": 6420,
     "image_link": "https://wellshop.hu/img/95078/Lemongrass-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -3396,7 +3396,7 @@
     "title": "doTerra Levendula olaj 15 ml, Lavender",
     "link": "https://wellshop.hu/onallo-doterra-olaj-levendula-15-ml",
     "description": "A jellegzetes aromájú, számtalan módon hasznosítható levendula napjaink egyik legnépszerűbb esszenciális olaja. Az ókori rómaiak és egyiptomiak fürdőzéshez használták. Sokoldalú előnyei miatt a levendula esszenciális olaj mindenütt jó, ha kéznél van.",
-    "price": 14174,
+    "price": 14816,
     "image_link": "https://wellshop.hu/img/95078/Lavender-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -3434,7 +3434,7 @@
     "title": "doTerra Levendula Touch olaj 10 ml, Lavender Touch",
     "link": "https://wellshop.hu/onallo-doterra-olaj-levendula-touch-10-ml",
     "description": "A nyugalom univerzális érintése, bárhol, bármikor! A Levendula Touch előre hígított, bőrbarát golyós kiszerelése megnyugtatja az irritált bőrt, csillapítja az elmét és tökéletes relaxációt nyújt egyetlen mozdulattal.",
-    "price": 9931,
+    "price": 9195,
     "image_link": "https://wellshop.hu/img/95078/Lavender-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5193,7 +5193,7 @@
     "title": "doTerra Peace Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-peace-touch-10-ml",
     "description": "Lassítson, vegyen egy mély levegőt, és találjon békére! A dōTERRA Peace Touch virágos, mentás keveréke segít oldani az aggodalmat, csillapítja a felfokozott érzelmeket, és megnyugtató belső csendet teremt a feszült pillanatokban.",
-    "price": 10248,
+    "price": 11156,
     "image_link": "https://wellshop.hu/img/95078/Peace-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
