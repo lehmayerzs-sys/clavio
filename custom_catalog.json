@@ -257,7 +257,7 @@
       "doTERRA gyermekeknek",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -840,7 +840,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTERRA Balance ™ - Egyensúly"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -966,7 +966,7 @@
       "Légzés és allergia",
       "Szuper akciók"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -993,7 +993,7 @@
     "title": "doTerra Borsmenta gyöngyöcskék 125 db, Peppermint Beadlets",
     "link": "https://wellshop.hu/onallo-doterra-olaj-borsmenta-gyongyok-125-gyongy",
     "description": "Friss lehelet és azonnali élénkítés egyetlen apró gyöngyöcskében! A dōTERRA Borsmenta gyöngyök kényelmes megoldást nyújtanak az emésztés támogatására és a szájhigiénia fenntartására, bárhol is járjon.",
-    "price": 7756,
+    "price": 7802,
     "image_link": "https://wellshop.hu/img/95078/Peppermint-Beadlets-125gyongy-001",
     "categories": [
       "doTERRA olajok",
@@ -1372,7 +1372,7 @@
       "Esszenciális",
       "önálló olajok (Single Oils)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1563,7 +1563,7 @@
     "title": "doTerra DDR Prime olaj keverék 15 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-ddr-prime-15-ml",
     "description": "Támogassa sejtjei egészségét és vitalitását! A DDR Prime egy erőteljes, szabadalmazott esszenciálisolaj-keverék, amely erős antioxidáns hatásával természetes módon segít megvédeni a testet az oxidatív stresszel szemben.",
-    "price": 16644,
+    "price": 18419,
     "image_link": "https://wellshop.hu/img/95078/DDR-Prime-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -1580,7 +1580,7 @@
     "title": "doTerra Deep Blue 3 db-os készlet, Deep Blue Kit",
     "link": "https://wellshop.hu/deep-blue-keszlet-3-db-doterra",
     "description": "doTERRA Deep Blue Kit – olaj, Rub krém és Polyphenol Complex kapszula egy szettben. Átfogó természetes mozgástámogatás sportolóknak és aktív életmódot folytatóknak.",
-    "price": 51056,
+    "price": 51156,
     "image_link": "https://wellshop.hu/img/95078/Deep-Blue-Kit-3db-001",
     "categories": [
       "doTERRA olajok",
@@ -1620,7 +1620,7 @@
       "doTERRA krémek",
       "doTERRA Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -1738,7 +1738,7 @@
     "title": "doTerra Deep Blue Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-deep-blue-touch-10-ml",
     "description": "Azonnali hűsítő és nyugtató megkönnyebbülés az igénybe vett izmoknak és ízületeknek. A Deep Blue Touch előre hígított, golyós formátuma tökéletes és gyors megoldást kínál egy intenzív edzés vagy egy kimerítő munkanap után.",
-    "price": 21956,
+    "price": 22056,
     "image_link": "https://wellshop.hu/img/95078/Deep-Blue-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -2348,7 +2348,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2503,7 +2503,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2812,7 +2812,7 @@
     "title": "doTerra IQ Mega folyékony omega-3 táplálékkiegészítő 150 ml",
     "link": "https://wellshop.hu/doterra-specialis-celu-taplalekkiegeszito-iq-mega-150-ml",
     "description": "Ez a nagyszerű ízű, könnyen lenyelhetőIQ Mega omega-3 étrendkiegészítő adagonként 1300 mg koncentrált omega3 zsírsavat tartalmaz, a halolaj halas ízét pedig a dōTERRA vadnarancs CPTG™ minősítésű esszenciális olajának friss, narancsos zamatára cseréli le. Az IQ Mega™ táplálékkiegészítőt a dōTERRA a2z Chewable rágótablettával való együttes, napi rendszerességű szedésre fejlesztettük ki gyermekek és",
-    "price": 20528,
+    "price": 24422,
     "image_link": "https://wellshop.hu/img/95078/IQ-Mega-150ml-001",
     "categories": [
       "doTERRA olajok",
@@ -2824,7 +2824,7 @@
       "krémek)",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2847,7 +2847,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3070,7 +3070,7 @@
     "title": "doTerra Kéz- és testápoló krém 200 ml, Hand & Body Lotion",
     "link": "https://wellshop.hu/doterra-spa-termekek-kez-es-testapolo-krem-200-ml",
     "description": "Kényeztesse magát a pazar dōTERRA SPA kéz- és testápoló krémmel – egy könnyű, nem zsíros készítménnyel, amely jojoba- és makadámiadió-olajat, murumuru- és kakaóvajat, valamint tápláló növényi kivonatokat tartalmaz. Ez a könnyű krém selymesen puhává és simává varázsolja a bőrt. Ez a kéz- és testápoláshoz is ideális krém tökéletesen illik az esszenciális olajokhoz, így személyre szabott aromatikus élményben lehet része tetőtől talpig. 1 vagy 3 darabos kiszerelésben is kapható.<h2 >Elsődleges előnyök – Kéz és testápoló krém</h2> <ul> <li>Könnyen vegyítheti kedvenc esszenciális olajával, hogy egyedi illatélményt teremtsen.</li> <li>Jól ismert a napraforgómag- és a makadámiadió-olajok kivételes hidratáló tulajdonsága, és az a képessége, hogy megtartják a bőr nedvességtartalmát.</li> <li>Anélkül lesz egészséges megjelenésű, puha és sima tőle a bőr, hogy zsíros érzetet hagyna maga után.</li> <li>A murumuru- és kakaóvaj tápláló növényi kivonatokkal párosul a krémben a nyugtató hatás eléréséért.</li> </ul> <h2 >Használat – Kéz és testápoló krém</h2> <ul> <li>Tartson belőle magánál egy üveggel útközben vagy a munkahelyén is, hogy személyre szabott aromatikus élményben lehessen része, amikor csak szüksége van rá.</li> <li>Egy nyugtató masszázshoz keverje kedvenc masszázsolajaival.</li> <li>Ha bőre különösen száraz, adjon a kéz- és testápolóhoz néhány csepp szantálfa, vörös cédrus, copaiba vagy mirha esszenciális olajat.</li> <li>Használja a dōTERRA SPA termékcsaláddal együtt, hogy még többet tapasztaljon meg a CPTGTM minősítésű olajokkal gazdagított bőrápolási termékek előnyeiből.</li> </ul> <h2 >Használati utasítás</h2> <p>A szárazság enyhítéséhez vigye fel bőséges mennyiségben kezére és testére. A legjobb eredmények érdekében keverje össze a tenyerében egy Ön által választott dōTERRA esszenciális olajjal. Alkalmazza igény szerint.</p> <h2 >Teljes összetevő lista – Kéz és testápoló krém</h2> <ul> <li>Víz (aqua)</li> <li>Kapril/kaprikus triglicerid</li> <li>Glicerin</li> <li>Cetearil-alkohol</li> <li>Helianthus annuus (napraforgó) magjából kivont olaj</li> <li>Pentilén-glikol</li> <li>Mikrokristályos cellulóz</li> <li>Diheptil-szukcinát</li> <li>Gliceril-sztearát</li> <li>Kálium-olivoil-hidrolizált zabfehérje</li> <li>Behenil-alkohol</li> <li>Cocos nucifera (kókusz) olaj</li> <li>Macadamia ternifolia magjából kivont olaj</li> <li>Olea europaea (olajfa) gyümölcséből kivont olaj</li> <li>Astrocaryum murumuru magjából előállított vaj</li> <li>Theobroma grandiflorum magjából előállított vaj</li> <li>Aleurites moluccana (kukui dió) magjából kivont olaj</li> <li>Plukenetia volubilis magjából kivont olaj</li> <li>Olea europaea (olajfa) gyümölcsének el nem szappanosítható részei</li> <li>Jojobaolaj/makadámiadió-olaj észterei</li> <li>Simmondsia chinensis (jojoba) magjából kivont olaj</li> <li>Szkvalén</li> <li>Tokoferol</li> <li>Solanum lycopersicum (paradicsom) gyümölcskivonat</li> <li>Argania spinosa leveléből nyert kivonat</li> <li>Simmondsia chinensis (jojoba) leveléből nyert kivonat</li> <li>Makadámiát-fitoszteril</li> <li>Fitoszterolok</li> <li>Nátrium-fitát</li> <li>Bellis perennis (százszorszép) virágkivonat</li> <li>Hidroxiacetofenon</li> <li>Xantángumi</li> <li>Cellulózgumi</li> <li>Gliceril-oleát</li> <li>Nátrium-hialuronát</li> <li>Benzil-alkohol</li> <li>Kapriloil-glicerin/szebacinsav-kopolimer</li></ul>",
-    "price": 9506,
+    "price": 8713,
     "image_link": "https://wellshop.hu/img/95078/Hand--Body-Lotion-200ml-001",
     "categories": [
       "doTERRA olajok",
@@ -3126,7 +3126,7 @@
       "Légzés és allergia",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3407,7 +3407,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3620,7 +3620,7 @@
       "doTERRA Vitaminok",
       "Napi vitalitás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3628,7 +3628,7 @@
     "title": "doTerra MetaPWR Assist 30 kapszula",
     "link": "https://wellshop.hu/doterra-metapwr-metapwr-assist-30-kap",
     "description": "Táplálékkiegészítő esszenciális olajokkal és növényi kivonatokkal. Növelje étkezései tápanyagértékét a MetaPWR™ Assist segítségével. Minden egyes kapszula eperfalevél-kivonatot, berberint, fahéjport és szabadalmazott MetaPWR esszenciálisolaj-keveréket tartalmaz. Ha mindennapos wellnessrutinja részeként a nap legkiadósabb étkezése előtt fogyasztja el ezt az erőteljes táplálékkiegészítőt, a lehető l",
-    "price": 15056,
+    "price": 15156,
     "image_link": "https://wellshop.hu/img/95078/MetaPWR-Assist-30kap-001",
     "categories": [
       "doTERRA olajok",
@@ -4717,7 +4717,7 @@
     "title": "doTerra On Guard olaj keverék 15 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-on-guard-15-ml",
     "description": "A természetes védelem alapköve minden háztartásban. Az On Guard, a dōTERRA legnépszerűbb keveréke, erőteljesen támogatja az immunrendszer és a légutak egészségét, miközben meleg, fűszeres aromájával energizálja a testet és az elmét.",
-    "price": 18756,
+    "price": 18832,
     "image_link": "https://wellshop.hu/img/95078/On-Guard-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -4727,7 +4727,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTERRA On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4798,7 +4798,7 @@
     "title": "doTerra On Guard+ lágyzselé 60 kapszula",
     "link": "https://wellshop.hu/doterra-keverek-olaj-on-guardplusz-lagyzsele-kapszula-60-kap",
     "description": "Maximális immunvédelem egyetlen kapszulába zárva. Az On Guard+ lágyzselé az eredeti keverék erejét oregánóval, feketeborssal és citromfűvel egészíti ki, gyors és kényelmes belsőleges támogatást nyújtva a szezonális fenyegetettségek idején.",
-    "price": 14856,
+    "price": 14956,
     "image_link": "https://wellshop.hu/img/95078/On-Guard--Softgels-60kap-001",
     "categories": [
       "doTERRA olajok",
@@ -4871,7 +4871,7 @@
       "Immunerősítés és Védelem",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4899,7 +4899,7 @@
     "title": "doTerra Öregedésgátló hidratálókrém 50 ml, Anti-Aging Moisturiser",
     "link": "https://wellshop.hu/doterra-esszencialis-borapolas-oregedesgatlo-hidratalokrem-50-ml",
     "description": "Bőrünk ápolása kortól függetlenül mindig fontos, és a dōTERRA öregedésgátló hidratálókréme ebben komoly segítséget nyújthat. A hidratálókrém a legkorszerűbb összetevőket CPTG-minőségű (Tanúsított, Tiszta, Letesztelt Minőségű) levendula, jázmin, muskátli és tömjén esszenciális olajokkal párosítja. Mindezek az összetevők együttes erővel selymesen sima és egészséges érzetű bőrt eredményezhetnek. Öreg",
-    "price": 24660,
+    "price": 21803,
     "image_link": "https://wellshop.hu/img/95078/Anti-Aging-Moisturiser-50ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5002,7 +5002,7 @@
     "title": "doTerra Pacsuli olaj 15 ml, Patchouli",
     "link": "https://wellshop.hu/onallo-doterra-olaj-pacsuli-15-ml",
     "description": "Könnyen felismerhető, jellegzetesen gazdag, pézsmás illata miatt a pacsulit az illatszergyártásban széles körben alkalmazzák. A pacsuli esszenciális olaj segít megtisztítani és megnyugtatni a bőrt, aromája pedig segít a kedélyeket is megnyugtatni.",
-    "price": 15856,
+    "price": 15956,
     "image_link": "https://wellshop.hu/img/95078/Patchouli-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5220,7 +5220,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5245,7 +5245,7 @@
       "Légzés és allergia",
       "doTERRA párologtatók"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5418,7 +5418,7 @@
     "title": "doTerra Rozmaring olaj 15 ml, Rosemary",
     "link": "https://wellshop.hu/onallo-doterra-olaj-rozmaring-15-ml",
     "description": "A rozmaring egy aromás, örökzöld bokorféle, amelynek a leveleit előszeretettel használják ételek ízesítéséhez. Az ókori kultúrákban szent növényként tisztelték. Gyógynövényes és energizáló illata miatt aroma- és masszázsterápiás célokra is gyakorta használják.",
-    "price": 10256,
+    "price": 10356,
     "image_link": "https://wellshop.hu/img/95078/Rosemary-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5655,7 +5655,7 @@
       "doTERRA Serenity ™ - Nyugodt alvás",
       "doTERRA Bőrápolás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5835,7 +5835,7 @@
       "doTERRA gyermekeknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -6148,7 +6148,7 @@
     "title": "doTerra Szibériai Fenyő olaj 15 ml, Siberian Fir",
     "link": "https://wellshop.hu/onallo-doterra-olaj-sziberiai-fenyo-15-ml",
     "description": "Rendkívül nyugtató hatással lehet a bőrre, ezért ideális esszenciális olaj egy kellemes masszázshoz. Hozzájárul a könnyed légzéshez, miközben nyugtatja a kedélyeket és kiegyensúlyozó hatást is biztosít.",
-    "price": 10356,
+    "price": 10402,
     "image_link": "https://wellshop.hu/img/95078/Siberian-Fir-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -6201,7 +6201,7 @@
     "title": "doTerra Tápláló testvaj 198 g, Replenishing Body Butter",
     "link": "https://wellshop.hu/doterra-spa-termekek-taplalo-testvaj-198-g",
     "description": "Kényeztesse bőrét a dōTERRA SPA tápláló testvaj adta gazdag hidratálással. Ennek a természetes készítménynek az alapja sheavaj és kakaóvaj keveréke, amelyekről köztudott, hogy képesek mélyen hidratálni a bőrt, és elősegíteni annak rugalmasságát. A jojobaolaj gyorsan beszívódik a bőrbe és hidratált megjelenést kölcsönöz neki, míg az avokádóolaj táplálja és puhítja a bőrt. A CPTG™ (Tanúsított, Tiszt",
-    "price": 9530,
+    "price": 13614,
     "image_link": "https://wellshop.hu/img/95078/Replenishing-Body-Butter-198g-001",
     "categories": [
       "doTERRA olajok",
@@ -6240,7 +6240,7 @@
     "title": "doTerra Teafa Touch olaj 10 ml, Tea Tree Touch",
     "link": "https://wellshop.hu/onallo-doterra-olaj-teafa-touch-10-ml",
     "description": "A praktikus golyós applikátorral ellátott Teafa Touch keverék frakcionált kókuszolajban hígítva biztosítja a teafa esszenciális olaj tisztító tulajdonságait. Használatával mind a bőr, mind a körmök tisztábbak és ápoltabbak lesznek.",
-    "price": 7130,
+    "price": 7756,
     "image_link": "https://wellshop.hu/img/95078/Tea-Tree-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -6507,7 +6507,7 @@
       "Bőrápolás és szépség",
       "Longevity támogató"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6582,7 +6582,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6718,7 +6718,7 @@
     "title": "doTerra Veráge Bőrápoló 4 db-os kollekció, Skin Care Collection",
     "link": "https://wellshop.hu/Verage-Borapolo-kollekcio-4-db-Skin-Care-Collectio",
     "description": "A doTERRA Verage bőrápoló kollekcióval természetes módon érhet el látható és érezhető eredményeket. Kövesse minden nap a Verage programot a bársonyos, ellenálló és ragyogó arcbőrért. Veráge Bőrápoló - Elsődleges előnyök A Verage egy természetes bőrápoló termékekből álló exkluzív rendszer, amely táplálja és hidratálja a bőrt, ezzel csökkentve az öregedés látható jeleit. A Verage hatékony növényi ki",
-    "price": 62856,
+    "price": 62956,
     "image_link": "https://wellshop.hu/img/95078/Skin-Care-Collection-4db-001",
     "categories": [
       "doTERRA olajok",
@@ -6967,7 +6967,7 @@
       "önálló olajok (Single Oils)",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -7374,7 +7374,7 @@
     "title": "Tömjén mikrogyöngyös kapszula",
     "link": "https://wellshop.hu/tomjen-mikrogyongyos-kapszula-30-db",
     "description": "Az esszenciális olajok &quot;királya&quot; innovatív, azonnal felszívódó formában! A Tömjén mikrogyöngyös kapszula ötvözi a tiszta olaj és a tömjéngyanta kivonat erejét, így a legegyszerűbb módon támogatja az egészséges sejt- és immunműködést a mindennapokban.",
-    "price": 21425,
+    "price": 23139,
     "image_link": "https://wellshop.hu/img/95078/tomjen-mikrogyongyos-kapszula-001",
     "categories": [
       "doTERRA olajok",
