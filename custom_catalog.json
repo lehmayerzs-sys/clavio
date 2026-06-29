@@ -966,7 +966,7 @@
       "Légzés és allergia",
       "Szuper akciók"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3822,7 +3822,7 @@
       "Fókusz és Tanulás",
       "doTERRA MetaPWR ™ - Energetizáló"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5953,7 +5953,7 @@
     "title": "doTerra Sun mindennapos ásványi fényvédő és hidratálókrém arcra",
     "link": "https://wellshop.hu/doTERRA-sun-mindennapos-asvanyi-fenyvedo-es-hidrat",
     "description": "Természetes, biztonságos és láthatatlan fényvédelem az arcbőrnek! A dōTERRA sun ásványi fényvédő és hidratálókrém nem nano cink-oxiddal, növényi kivonatokkal és SPF 30-as védelemmel óvja bőrét a naptól anélkül, hogy fehér nyomot hagyna.",
-    "price": 15515,
+    "price": 15101,
     "image_link": "https://wellshop.hu/img/95078/doterra-sun-face-mineral-sunscreen-moisturiser-001",
     "categories": [
       "doTERRA olajok",
