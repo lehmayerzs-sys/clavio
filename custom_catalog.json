@@ -37,7 +37,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -840,7 +840,7 @@
       "Higított olajok (golyós)",
       "doTERRA Balance ™ - Egyensúly"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1017,7 +1017,7 @@
     "title": "doTerra Brave Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-brave-10-ml",
     "description": "Növelje gyermeke önbizalmát a dōTERRA Brave Bátorító keverékkel! Ez a meleg, citrusos aroma segít elűzni a félelmeket és a gyámoltalanságot, lendületet és bátorságot adva a mindennapi (vagy akár a nagyobb) kihívások előtt.",
-    "price": 11836,
+    "price": 11244,
     "image_link": "https://wellshop.hu/img/95078/Brave-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -1028,7 +1028,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1046,7 +1046,7 @@
       "doTERRA gyermekeknek",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1515,7 +1515,7 @@
       "Longevity támogató",
       "Szuper akciók"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1557,7 +1557,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1580,7 +1580,7 @@
       "doTERRA krémek",
       "doTERRA Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1667,7 +1667,7 @@
       "doTERRA krémek",
       "doTERRA Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1709,7 +1709,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2011,7 +2011,7 @@
       "doTERRA nőknek",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2746,7 +2746,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3404,7 +3404,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4096,7 +4096,7 @@
       "Bőrápolás és szépség",
       "doTERRA Hajápolás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4248,7 +4248,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4687,7 +4687,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTERRA On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4695,7 +4695,7 @@
     "title": "doTerra On Guard szájvíz 473 ml, On Guard Mouthwash",
     "link": "https://wellshop.hu/doterra-on-guard-on-guard-szajviz-473-ml",
     "description": "A tiszta és egészséges szájüreg titka alkoholtartalom nélkül! A dōTERRA On Guard szájvíz a miswak kivonat és az esszenciális olajok erejével segít frissen tartani a leheletet és védeni az ínyt a mindennapokban.",
-    "price": 8797,
+    "price": 8357,
     "image_link": "https://wellshop.hu/img/95078/On-Guard-Mouthwash-473ml-001",
     "categories": [
       "doTERRA olajok",
@@ -4709,7 +4709,7 @@
       "Immunerősítés és Védelem",
       "doTERRA On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5016,7 +5016,7 @@
     "title": "doTerra Passion Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-passion-touch-10-ml",
     "description": "Ébressze fel újra a lelkesedést és az életörömöt! A Passion Touch fűszeres, meleg aromája segít elűzni az unalmat, inspirációt ad, és bátorságot önt Önbe, hogy újra szenvedéllyel és kreativitással élje meg a mindennapokat.",
-    "price": 14723,
+    "price": 15498,
     "image_link": "https://wellshop.hu/img/95078/Passion-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5045,7 +5045,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5073,7 +5073,7 @@
     "title": "doTerra PB Assist+™ Táplálékkiegészítő élő baktériumkultúrákkal",
     "link": "https://wellshop.hu/doterra-pb-assist-30-zacsko",
     "description": "A családbarát bélflóra támogatója ízletes formában! A PB Assist+ 13 különböző probiotikus törzzsel és prebiotikumokkal biztosítja az egészséges bélrendszer fenntartását – gyermekeknek és felnőtteknek egyaránt.",
-    "price": 16770,
+    "price": 16141,
     "image_link": "https://wellshop.hu/img/95078/PB-assist-30-zacsko",
     "categories": [
       "doTERRA olajok",
@@ -5094,7 +5094,7 @@
     "title": "doTerra PB Restore™ 30 db-os kétkamrás kapszula",
     "link": "https://wellshop.hu/PB-Restore-30-ketkamras-kapszula",
     "description": "A mikrobiom teljes körű, professzionális megújítása! A PB Restore egyedülálló, kétkamrás kapszulája 30 bioaktív összetevővel védi és állítja helyre az emésztőrendszer, a kognitív funkciók és az immunrendszer egészségét.",
-    "price": 23061,
+    "price": 21908,
     "image_link": "https://wellshop.hu/img/95078/PB-Restore-30-ketkamras-kapszula-001",
     "categories": [
       "doTERRA olajok",
@@ -5107,7 +5107,7 @@
       "Longevity támogató",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5163,7 +5163,7 @@
       "Higított olajok (golyós)",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5957,7 +5957,7 @@
     "title": "doTerra Supermint Beadlets olaj keverék 125 gyöngy, Beadlets",
     "link": "https://wellshop.hu/doterra-keverek-olaj-supermint-beadlets-125-gyongy",
     "description": "Azonnali mentás robbanás, bárhol, bármikor! A SuperMint gyöngyöcskék apró, kényelmes formában biztosítják a tiszta mentaolajok élénkítő, légzéstisztító és emésztést támogató erejét, friss leheletet hagyva maguk után.",
-    "price": 8506,
+    "price": 8081,
     "image_link": "https://wellshop.hu/img/95078/Supermint-Beadlets-125gyongy-001",
     "categories": [
       "doTERRA olajok",
@@ -5966,7 +5966,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6134,7 +6134,7 @@
       "doTERRA gyermekeknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6192,7 +6192,7 @@
       "Bőrápolás és szépség",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -6403,7 +6403,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6487,7 +6487,7 @@
       "krémek)",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6813,7 +6813,7 @@
       "doTERRA táplálékkiegészítők",
       "Szuper akciók"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7124,7 +7124,7 @@
       "Emésztés és méregtelenítés",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7177,7 +7177,7 @@
       "Bőrápolás és szépség",
       "doTERRA Hajápolás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7328,7 +7328,7 @@
       "krémek)",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
