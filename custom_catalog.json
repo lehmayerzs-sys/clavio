@@ -204,8 +204,8 @@
     "id": "Bergamottmenta-15ml-001",
     "title": "Bergamottmenta 15 ml",
     "link": "https://wellshop.hu/doterra-bergamottmenta-15ml",
-    "description": "A bergamottmenta esszenciális olajat egy virágzó, évelő növényből nyerjük, amelynek virága ibolyaszín, levelei pedig szív alakúak. A neve ellenére a bergamottmenta semmilyen rokonságban nem áll az ugyancsak bergamott néven ismert gyümölccsel.",
-    "price": null,
+    "description": "<!HTML KOD><p>A bergamottmenta esszenciális olajat egy virágzó, évelő növényből nyerjük, amelynek virága ibolyaszín, levelei pedig szív alakúak. A neve ellenére a bergamottmenta semmilyen rokonságban nem áll az ugyancsak bergamott néven ismert gyümölccsel. </p><p><span>A levendulához hasonlóan a bergamottmenta fő összetevője is a linalool és a linalil-acetát. Frakcionált kókuszolajjal elegyítve ideális egy nyugtató és enyhítő, edzés utáni masszázshoz. A bergamottmenta levendulára emlékeztető és mentás aromája pompás kiegészítőül szolgálhat egy meleg, pihentető fürdőhöz.</span></p>",
+    "price": 6527.5591,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
@@ -284,7 +284,7 @@
     "title": "doTerra Adaptiv olaj keverék 15 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-adaptiv-15-ml",
     "description": "Amikor úgy érzi, elborítják a mindennapok és egy kis nyugalomra lenne szüksége, az Adaptiv a tökéletes megoldás. Ez a szabadalmazott, nyugtató esszenciálisolaj-keverék segít lecsillapodni, javítja a hangulatot és támogatja a fókuszálást az új, stresszes helyzetekben.",
-    "price": 20356,
+    "price": 21427,
     "image_link": "https://wellshop.hu/img/95078/Adaptiv-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -295,7 +295,7 @@
       "Alvás és Stresszoldás",
       "doTERRA Adaptív termékcsalád"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -869,7 +869,7 @@
     "title": "doTerra Bergamott olaj 15 ml, Bergamot",
     "link": "https://wellshop.hu/onallo-doterra-olaj-bergamott-15-ml",
     "description": "A bergamott egyedülálló a citrusos olajok között, mivel képes egyszerre hangulatjavító és megnyugtató hatást is kifejteni. Évszázadokon át alkalmazták a kedélyek csillapítására és az arcbőr fiatalítására.",
-    "price": 19657,
+    "price": 19916,
     "image_link": "https://wellshop.hu/img/95078/Bergamot-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -994,7 +994,7 @@
     "title": "doTerra Borsmenta Touch olaj 10 ml, Peppermint Touch",
     "link": "https://wellshop.hu/onallo-doterra-olaj-borsmenta-touch-10-ml",
     "description": "A dōTERRA Peppermint Touch frakcionált kókuszolajjal elegyíti a borsmenta esszenciális olajat, így biztosítva az olaj számos, külsőleges használat útján kínált előnyét.",
-    "price": 9976,
+    "price": 9602,
     "image_link": "https://wellshop.hu/img/95078/Peppermint-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -1362,7 +1362,7 @@
     "title": "doTerra Correct-X 15 ml",
     "link": "https://wellshop.hu/doterra-celzott-hatasu-termek-correctx-15-ml",
     "description": "A természetes elsősegély tubusba zárva! A Correct-X egy többfunkciós, kőolajmentes nyugtató kenőcs, amely a Tömjén és a Szalmagyopár erejével tisztítja, védi és hidratálja az irritált, sérült bőrt.",
-    "price": 9321,
+    "price": 7644,
     "image_link": "https://wellshop.hu/img/95078/Correct-X-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -2249,7 +2249,7 @@
       "Kollekciók és Otthon",
       "Kiegészítők"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2463,7 +2463,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -6142,7 +6142,7 @@
     "title": "doTerra Tangerin olaj 15 ml, Tangerine",
     "link": "https://wellshop.hu/onallo-doterra-olaj-tangerin-15-ml",
     "description": "A tangerin igen hosszú múltra tekint vissza a kínai kultúrában. Magas limonéntartalma miatt édes, ugyanakkor kesernyés íze egyszerre vált ki felemelő és megnyugtató érzést. Bármilyen, citrust kívánó ételt remekül kiegészít.",
-    "price": 9978,
+    "price": 7983,
     "image_link": "https://wellshop.hu/img/95078/Tangerine-15ml-001",
     "categories": [
       "doTERRA olajok",
