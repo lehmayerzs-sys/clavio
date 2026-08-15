@@ -225,7 +225,7 @@
     "title": "doTerra a2z Chewable rágótabletta 60 db-os",
     "link": "https://wellshop.hu/doterra-specialis-celu-taplalekkiegeszito-a2z-chewable-60-tabla",
     "description": "Könnyen rágható, mindennapos vitaminbomba a legkisebbeknek! A doTERRA a2z Chewable rágótabletta a B-vitaminok komplex erejét A-, C- és E-vitaminokkal ötvözve támogatja az immunrendszert és a kognitív fejlődést, finom görögdinnyés ízben.",
-    "price": 13320,
+    "price": 17760,
     "image_link": "https://wellshop.hu/img/95078/a2z-Chewable-60tabla-001",
     "categories": [
       "doTERRA olajok",
@@ -314,7 +314,7 @@
       "Higított olajok (golyós)",
       "doTERRA Adaptív termékcsalád"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -581,7 +581,7 @@
     "title": "doTerra AromaTouch olaj keverék 15 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-aromatouch-15-ml",
     "description": "Az AromaTouchTM Masszázs keverék egy masszázshoz remekül alkalmazható, nyugtató esszenciálisolaj-keverék. Az általa kifejtett nyugtató, ellazító hatás segítségével csillapíthatjuk az érzékeket. Elsődleges előnyök – AromaTouch olaj Az AromaTouch esszenciálisolaj-keverék az olajok sajátos kombinációját egyesíti magában a jótékony pihentető és nyugtató hatás biztosítása érdekében.",
-    "price": 15904,
+    "price": 21205,
     "image_link": "https://wellshop.hu/img/95078/AromaTouch-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -953,7 +953,7 @@
     "title": "doTerra Borsmenta gyöngyöcskék 125 db, Peppermint Beadlets",
     "link": "https://wellshop.hu/onallo-doterra-olaj-borsmenta-gyongyok-125-gyongy",
     "description": "Friss lehelet és azonnali élénkítés egyetlen apró gyöngyöcskében! A dōTERRA Borsmenta gyöngyök kényelmes megoldást nyújtanak az emésztés támogatására és a szájhigiénia fenntartására, bárhol is járjon.",
-    "price": 7329,
+    "price": 7527,
     "image_link": "https://wellshop.hu/img/95078/Peppermint-Beadlets-125gyongy-001",
     "categories": [
       "doTERRA olajok",
@@ -1523,7 +1523,7 @@
     "title": "doTerra DDR Prime olaj keverék 15 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-ddr-prime-15-ml",
     "description": "Támogassa sejtjei egészségét és vitalitását! A DDR Prime egy erőteljes, szabadalmazott esszenciálisolaj-keverék, amely erős antioxidáns hatásával természetes módon segít megvédeni a testet az oxidatív stresszel szemben.",
-    "price": 18603,
+    "price": 18855,
     "image_link": "https://wellshop.hu/img/95078/DDR-Prime-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -1698,7 +1698,7 @@
     "title": "doTerra Deep Blue Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-deep-blue-touch-10-ml",
     "description": "Azonnali hűsítő és nyugtató megkönnyebbülés az igénybe vett izmoknak és ízületeknek. A Deep Blue Touch előre hígított, golyós formátuma tökéletes és gyors megoldást kínál egy intenzív edzés vagy egy kimerítő munkanap után.",
-    "price": 21097,
+    "price": 27759,
     "image_link": "https://wellshop.hu/img/95078/Deep-Blue-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -4758,7 +4758,7 @@
     "title": "doTerra On Guard+ lágyzselé 60 kapszula",
     "link": "https://wellshop.hu/doterra-keverek-olaj-on-guardplusz-lagyzsele-kapszula-60-kap",
     "description": "Maximális immunvédelem egyetlen kapszulába zárva. Az On Guard+ lágyzselé az eredeti keverék erejét oregánóval, feketeborssal és citromfűvel egészíti ki, gyors és kényelmes belsőleges támogatást nyújtva a szezonális fenyegetettségek idején.",
-    "price": 14439,
+    "price": 13854,
     "image_link": "https://wellshop.hu/img/95078/On-Guard--Softgels-60kap-001",
     "categories": [
       "doTERRA olajok",
@@ -5395,7 +5395,7 @@
     "title": "dōTERRA Rostkeverék",
     "link": "https://wellshop.hu/doTERRA-Rostkeverek",
     "description": "<!HTML KOD><p><span>Támogassa a szabályos emésztést és étvágya megfelelő energiaforrással való kielégítését is egy csapásra a doTERRA Rostkeverékkel, amely azzal a céllal készült, hogy hosszabban tartó teltségérzetet adjon!</span></p>",
-    "price": 36799632,
+    "price": null,
     "image_link": "https://wellshop.hu/img/95078/doTERRA-rostkverek-001",
     "categories": [
       "doTERRA olajok",
