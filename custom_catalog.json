@@ -140,7 +140,7 @@
     "title": "doTerra termékek használata 30 perces online konzultáció",
     "link": "https://wellshop.hu/szolgaltatas-wellness-tanacsdas-30-perc",
     "description": "30 perces személyes online wellness konzultáció doTERRA szakértővel. Egyéni igények alapján segítünk megtalálni a legjobb illóolajokat és készítményeket az Ön életmódjához.",
-    "price": 11732.28,
+    "price": 11732,
     "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "Szolgáltatások"
@@ -303,7 +303,7 @@
     "title": "doTerra Adaptiv Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-adaptiv-touch-10-ml",
     "description": "Találja meg a belső békéjét bárhol, bármikor! Az Adaptiv Touch egy kényelmes golyós kiszerelésű, azonnal bőrre kenhető nyugtató keverék, amely segít lecsillapítani a testet és az elmét a feszült, stresszes és határozatlan pillanatokban.",
-    "price": 12056,
+    "price": 12905,
     "image_link": "https://wellshop.hu/img/95078/Adaptiv-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -345,7 +345,7 @@
     "link": "https://wellshop.hu/doterra-celzott-hatasu-termek-air-cukorka-30-cukorka",
     "description": "Praktikus, finom pasztilla a légutak azonnali megnyugtatására! A dōTERRA Air Cukorka a jól bevált légzéskönnyítő esszenciális olajokat ötvözi, hogy útközben is gyors, célzott támogatást nyújtson.",
     "price": 8704,
-    "image_link": "https://wellshop.hu/img/95078/Air-Drops-30cukorka-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA termékcsaládok",
@@ -790,7 +790,7 @@
     "title": "doTerra Balance olaj keverék 15 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-balance-15-ml",
     "description": "Teremtsen békét a káoszban a dōTERRA Balance segítségével. Ennek a friss, fás keveréknek a meleg aromája leföldel, elősegíti az egésztestes ellazulást, és segít visszatalálni a mindennapi érzelmi egyensúlyhoz.",
-    "price": 11785,
+    "price": 12103,
     "image_link": "https://wellshop.hu/img/95078/Balance-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -840,7 +840,7 @@
       "Higított olajok (golyós)",
       "doTERRA Balance ™ - Egyensúly"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -994,7 +994,7 @@
     "title": "doTerra Borsmenta Touch olaj 10 ml, Peppermint Touch",
     "link": "https://wellshop.hu/onallo-doterra-olaj-borsmenta-touch-10-ml",
     "description": "A dōTERRA Peppermint Touch frakcionált kókuszolajjal elegyíti a borsmenta esszenciális olajat, így biztosítva az olaj számos, külsőleges használat útján kínált előnyét.",
-    "price": 9503,
+    "price": 8878,
     "image_link": "https://wellshop.hu/img/95078/Peppermint-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -1018,7 +1018,7 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-brave-10-ml",
     "description": "Növelje gyermeke önbizalmát a dōTERRA Brave Bátorító keverékkel! Ez a meleg, citrusos aroma segít elűzni a félelmeket és a gyámoltalanságot, lendületet és bátorságot adva a mindennapi (vagy akár a nagyobb) kihívások előtt.",
     "price": 10203,
-    "image_link": "https://wellshop.hu/img/95078/Brave-10ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -1037,7 +1037,7 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-calmer-10-ml",
     "description": "Tegye az esti lefekvést békés és stresszmentes élménnyé! A gyermekeknek kifejlesztett Calmer Pihentető keverék lágy, megnyugtató illatával csillapítja az idegeket, ellazítja a testet, és ideális légkört teremt a nyugodt alváshoz.",
     "price": 9604,
-    "image_link": "https://wellshop.hu/img/95078/Calmer-10ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -1132,7 +1132,7 @@
     "link": "https://wellshop.hu/onallo-doterra-olaj-citrom-15-ml",
     "description": "Frissen szedett citromhéjból hidegen préselt, 100% tiszta CPTG® illóolaj. Felemelő, energizáló aromája pozitív hangulatot teremt. Vízbe cseppentve frissítő ital, párologtatva tisztítja a levegőt, háztartási felületek természetes tisztítójaként is kiváló.",
     "price": 7205,
-    "image_link": "https://wellshop.hu/img/95078/Lemon-15ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -1340,7 +1340,7 @@
     "title": "doTerra Copaiba Touch olaj 10 ml",
     "link": "https://wellshop.hu/onallo-doterra-olaj-copaiba-touch-10-ml",
     "description": "Nagy népszerűségnek örvendő esszenciális olajunk, a copaiba most praktikus golyós kiszerelésben is kapható. A copaiba esszenciális olajat egy Dél-Amerikában honos, aromás trópusi fafajtából nyerik ki.",
-    "price": 12604,
+    "price": 12273,
     "image_link": "https://wellshop.hu/img/95078/Copaiba-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -1502,7 +1502,7 @@
     "title": "doTerra DDR Prime lágyzselé olaj keverék 60 kapszula, Softgels",
     "link": "https://wellshop.hu/doterra-keverek-olaj-ddr-prime-lagyzsele-60-kap",
     "description": "Támogassa sejtjei egészségét és vitalitását egyszerűen, minden nap! A DDR Prime lágyzselatin kapszula erőteljes antioxidáns hatású esszenciális olajokat tartalmaz, melyek megvédik a testet a környezeti és oxidatív stresszel szemben.",
-    "price": 24319,
+    "price": 26031,
     "image_link": "https://wellshop.hu/img/95078/DDR-Prime-Softgels-60kap-001",
     "categories": [
       "doTERRA olajok",
@@ -1557,7 +1557,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -1644,7 +1644,7 @@
       "doTERRA táplálékkiegészítők",
       "doTERRA Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -2236,7 +2236,7 @@
     "title": "doTerra Frakcionált kókuszolaj 115 ml, Fractionated Coconut Oil",
     "link": "https://wellshop.hu/doterra-kiegeszito-frakcionalt-kokuszolaj-115-ml",
     "description": "A tökéletes partner minden esszenciális olajhoz! A dōTERRA Frakcionált kókuszolaj egy pehelykönnyű, szagtalan, nem zsíros bázisolaj, amely gyorsan beszívódik, hidratál, és biztonságossá teszi az olajok bőrön való alkalmazását.",
-    "price": 7500,
+    "price": 7703,
     "image_link": "https://wellshop.hu/img/95078/Fractionated-Coconut-Oil-115ml-001",
     "categories": [
       "doTERRA olajok",
@@ -2772,7 +2772,7 @@
     "title": "doTerra IQ Mega folyékony omega-3 táplálékkiegészítő 150 ml",
     "link": "https://wellshop.hu/doterra-specialis-celu-taplalekkiegeszito-iq-mega-150-ml",
     "description": "Ez a nagyszerű ízű, könnyen lenyelhetőIQ Mega omega-3 étrendkiegészítő adagonként 1300 mg koncentrált omega3 zsírsavat tartalmaz, a halolaj halas ízét pedig a dōTERRA vadnarancs CPTG™ minősítésű esszenciális olajának friss, narancsos zamatára cseréli le. Az IQ Mega™ táplálékkiegészítőt a dōTERRA a2z Chewable rágótablettával való együttes, napi rendszerességű szedésre fejlesztettük ki gyermekek és",
-    "price": 25031,
+    "price": null,
     "image_link": "https://wellshop.hu/img/95078/IQ-Mega-150ml-001",
     "categories": [
       "doTERRA olajok",
@@ -3376,7 +3376,7 @@
     "link": "https://wellshop.hu/onallo-doterra-olaj-levendula-5-ml",
     "description": "A jellegzetes aromájú, számtalan módon hasznosítható levendula napjaink egyik legnépszerűbb esszenciális olaja. Az ókori rómaiak és egyiptomiak fürdőzéshez használták a levendulát. Azóta pedig szélesebb körökben is felfedezték egyéb jótékony hatásai hosszú sorát. Az egészséges, tiszta bőrt elősegítő tulajdonságainak köszönhetően a levendula esszenciális olaj használata a kozmetikai és parfümiparba",
     "price": 6496,
-    "image_link": "https://wellshop.hu/img/95078/Lavender-5ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -4402,7 +4402,7 @@
     "link": "https://wellshop.hu/doterra-on-guard-on-guard-fogkrem-125-g",
     "description": "Mosolyogjon ragyogóan, természetesen! A dōTERRA On Guard fluoridmentes fogkrém a vadnarancs, a fahéj és a borsmenta frissítő ízével tisztítja a szájüreget, csökkenti a lepedéket és gyengéden fehéríti a fogakat.",
     "price": 4801,
-    "image_link": "https://wellshop.hu/img/95078/Whitening-Toothpaste-125g-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA termékcsaládok",
@@ -4558,7 +4558,7 @@
     "link": "https://wellshop.hu/doterra-on-guard-on-guard-habzo-kezmoso-adagolo-1-db",
     "description": "doTERRA On Guard habzó kézmosó adagoló – újratölthető, elegáns pumpás palack. On Guard koncentrátummal töltve, vegyszermentes kéztisztításhoz.",
     "price": 1316,
-    "image_link": "https://wellshop.hu/img/95078/Foaming-Hand-Wash-Dispenser-1db-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA termékcsaládok",
@@ -5035,7 +5035,7 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-pasttense-10-ml",
     "description": "Az azonnali ellazulás mestere a fej és a nyak területén. A PastTense hűsítő golyós keveréke pillanatok alatt csillapítja a feszültséget, a stresszt és a mentális nyomást, kiegyensúlyozott és harmonikus közérzetet teremtve.",
     "price": 9303,
-    "image_link": "https://wellshop.hu/img/95078/PastTense-10ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -5153,7 +5153,7 @@
     "title": "doTerra Peace Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-peace-touch-10-ml",
     "description": "Lassítson, vegyen egy mély levegőt, és találjon békére! A dōTERRA Peace Touch virágos, mentás keveréke segít oldani az aggodalmat, csillapítja a felfokozott érzelmeket, és megnyugtató belső csendet teremt a feszült pillanatokban.",
-    "price": 10422,
+    "price": 10563,
     "image_link": "https://wellshop.hu/img/95078/Peace-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5172,7 +5172,7 @@
     "link": "https://wellshop.hu/doterra-parologtato-petal-diffuzor-20-1-db",
     "description": "A dōTERRA Petal egy kis, felhasználóbarát párologtató készülék. Pihentető párájának és lágy, fehér háttérfényt adó világításának köszönhetően éjszakai párologtatáshoz is ideális. A Petal párologtató ultrafinom, de nagy mennyiségű párát oszlat szét a levegőben, aminek köszönhetően gyorsan és biztonságosan szabadítja fel az esszenciális olajok aromáját. Ez a minőségi, mégis megfizethető párologtató",
     "price": 28698,
-    "image_link": "https://wellshop.hu/img/95078/Petal-Diffuser-2-1db-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "Készítmények (Kapszulák",
@@ -5345,7 +5345,7 @@
     "title": "doTerra Revitazen olaj keverék 15 ml",
     "link": "https://wellshop.hu/doTerra-Revitazen-olaj-keverek-15-ml",
     "description": "<!HTML KOD><p><span>Tiszta összetevők = tiszta életmód. Bemutatjuk a RevitaZent, hat összeválogatott esszenciális olaj optimális keverékét a kímélő, tisztító támogatásért. Hogyan működik? A környezeti szennyezéseknek való rendszeres kitettség szépen lassan kifejti hatását, és az így kialakuló felhalmozódások gyengítik a szervezet működését. Finom íze mellett a RevitaZen célja, hogy a természet erejével fokozott támogatást nyújtson, és erősítse a test természetes képességét a nemkívánatos anyagok eltávolítására. A keveréket arra terveztük, hogy a környezeti tényezők között lavírozva proaktívan támogassa a test belső rendszereit. Segíti az anyagok kiszűrését végző kulcsfolyamatokat, és fenntartja az emésztés optimális működését. Az emberi test bonyolult folyamatai eleve arra hivatottak, hogy megszabaduljanak a felesleges anyagoktól; a bennük rejlő potenciált és teljesítményt pedig még tovább fokozhatja a RevitaZennel.</span></p>",
-    "price": 14208,
+    "price": 13498,
     "image_link": "https://wellshop.hu/img/95078/Revitazen-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5419,7 +5419,7 @@
     "title": "doTerra Rozmaring olaj 15 ml, Rosemary",
     "link": "https://wellshop.hu/onallo-doterra-olaj-rozmaring-15-ml",
     "description": "A rozmaring egy aromás, örökzöld bokorféle, amelynek a leveleit előszeretettel használják ételek ízesítéséhez. Az ókori kultúrákban szent növényként tisztelték. Gyógynövényes és energizáló illata miatt aroma- és masszázsterápiás célokra is gyakorta használják.",
-    "price": 9644,
+    "price": 9905,
     "image_link": "https://wellshop.hu/img/95078/Rosemary-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5642,7 +5642,7 @@
     "link": "https://wellshop.hu/Serenity-stift-Orvosi-macskagyoker",
     "description": "Gondoskodjon az éjszakai pihenésről maszatolás nélkül! A Serenity stift az Orvosi macskagyökér és a pihentető esszenciális olajok erejével lágyan csillapítja az idegeket, és gyengéd felvitelt biztosít a nyugodt alváshoz.",
     "price": 8603,
-    "image_link": "https://wellshop.hu/img/95078/serenity_stift_001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA termékcsaládok",
@@ -5828,7 +5828,7 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-stronger-10-ml",
     "description": "Építsen láthatatlan védőpajzsot gyermeke köré! A Stronger keverék üdítő, felemelő aromája frissítően hat az érzékekre, miközben kíméletes, mégis erőteljes módon támogatja a természetes ellenállóképességet és a bőr egészségét.",
     "price": 7503,
-    "image_link": "https://wellshop.hu/img/95078/Stronger-10ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -6167,7 +6167,7 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-tamer-10-ml",
     "description": "Megkönnyebbülés a pocaknak, bárhol is jár! A gyermekek és felnőttek számára is ideális Tamer Emésztést támogató keverék azonnali, kellemesen nyugtató hatást nyújt utazási émelygés, vagy egy kiadós étkezés utáni teltségérzet esetén.",
     "price": 7503,
-    "image_link": "https://wellshop.hu/img/95078/Tamer-10ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -6317,7 +6317,7 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-terrashield-15-ml",
     "description": "Élvezze a természetet zavartalanul! A TerraShield Kültéri keverék egy biztonságos, 100%-ban természetes esszenciálisolaj-kombináció, amely hatékony és kíméletes védelmet nyújt a környezeti kellemetlenségek (rovarok) ellen az egész család számára.",
     "price": 6826,
-    "image_link": "https://wellshop.hu/img/95078/TerraShield-15ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -6412,7 +6412,7 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-thinker-10-ml",
     "description": "Teremtsen tökéletes, fókuszált környezetet a tanuláshoz! A Thinker keverék csökkenti a mentális zajt, növeli az éberséget, és segít gyermekének megőrizni a figyelmét a bonyolultabb feladatok és a házi feladat írása közben.",
     "price": 7905,
-    "image_link": "https://wellshop.hu/img/95078/Thinker-10ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -6517,7 +6517,7 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-triease-lagyzsele-kapszula-60-kap",
     "description": "A természetes védelem a szezonális változások idején! A TriEase kapszula a citrom, a levendula és a borsmenta klasszikus harmóniájával támogatja a tiszta légzést és a szervezet védelmi rendszereit az allergének ellen.",
     "price": 13462,
-    "image_link": "https://wellshop.hu/img/95078/TriEase-Softgels-60kap-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -6574,7 +6574,7 @@
     "link": "https://wellshop.hu/onallo-doterra-olaj-vadnarancs-5-ml",
     "description": "A héjból hidegen sajtolt vadnarancsolaj energizáló aromájának és számos jótékony hatásának köszönhetően a dōTERRA egyik legkelendőbb esszenciális olaja. A monoterpénekben gazdag vadnarancs stimuláló és tisztító tulajdonságokkal bír.",
     "price": 2933,
-    "image_link": "https://wellshop.hu/img/95078/Wild-Orange-5ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -6615,7 +6615,7 @@
     "title": "doTerra Védősampon 500 ml, Protecting Shampoo",
     "link": "https://wellshop.hu/doterra-hajapolas-vedosampon-500-ml",
     "description": "Legyen szó akár a hajlakk, a szárazsampon, a vízköves víz vagy az úszómedence klóros vizének hatásairól, a hajnak szüksége van egy napi használatra alkalmas, hatékony samponra. A doTERRA védősampon kíméletesen tisztít és élénkít, friss és puha érzetet hagyva a hajon. A színkezelt hajra nézve is biztonságos, a mindennapi használat során pedig kíméletes doTERRA védősampon segít a szennyeződések és l",
-    "price": 13203,
+    "price": 17372,
     "image_link": "https://wellshop.hu/img/95078/Protecting-Shampoo-500ml-001",
     "categories": [
       "doTERRA olajok",
@@ -7135,8 +7135,8 @@
     "title": "doTerra ZenGest lágyzselé olaj keverék 60 kapszula",
     "link": "https://wellshop.hu/doterra-keverek-olaj-zengest-lagyzsele-kapszula-60-kap",
     "description": "A természetes emésztéstámogató komplex, bárhol, bármikor! A ZenGest lágyzselatin kapszula gyors, kényelmes belső megkönnyebbülést nyújt emésztési diszkomfort, puffadás vagy egy nehéz étkezés utáni teltségérzet esetén.",
-    "price": 11223,
-    "image_link": "https://wellshop.hu/img/95078/ZenGest-Softgels-60kap-002",
+    "price": 11698,
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA termékcsaládok",
@@ -7148,7 +7148,7 @@
       "krémek)",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -7156,7 +7156,7 @@
     "title": "doTerra ZenGest olaj keverék 15 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-zengest-15-ml",
     "description": "Otthon és útközben is a legjobb barátja az emésztésnek! A ZenGest olajkeverék gyömbérrel, mentával és ánizzsal gyors, természetes enyhülést hoz a gyomorpanaszok, a puffadás és az utazási rosszullét esetén.",
-    "price": 16752,
+    "price": 17205,
     "image_link": "https://wellshop.hu/img/95078/ZenGest-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -7327,7 +7327,7 @@
     "title": "RevitaZen+™ kétkamrás kapszula",
     "link": "https://wellshop.hu/doTerra-PB-Restore-30-db-os-ketkamras-kapszula",
     "description": "<!HTML KOD><p><span>A RevitaZen+ tiszta és tisztító hatású táplálékkiegészítő, amely az azonnal hasznosuló kétkamrás kapszulák jóvoltából egyszerűen bevehető, és célzott felszívódást biztosít. A túlterheltséget és felhalmozódásokat nem érezzük meg egyik napról a másikra; lassan és csendben nehezednek a testre, miközben belső feszültséget generálnak, és meggyengült egészségi állapothoz és jólléthez vezetnek. </span></p><p><span>A mindennapos szennyező anyagoknak való kitettség egyre tudatosabb felismerése tudatos változtatásért kiált – ezért alkotta meg a doTERRA a RevitaZen+-t. A máriatövis, articsóka levélkivonata, feketekömény magolaja és Római kömény esszenciális olaj kombinációja fontos alkotóelemeket biztosít, köztük szilibint, timokinont, cinarint, koffeoil-kinsavakat és kuminaldehidet, a RevitaZen Újraindító keverékkel karöltve, hogy együtt a növényi kivonatok és esszenciális olajak teljes körű forrását nyújtsák a test természetes kiválasztási folyamatainak segítéséhez. A RevitaZen+ kifejlesztésekor az volt a cél, hogy a testtel együttműködjön, ne pedig ellene, hogy az tehesse a dolgát: zavartalanul szűrjön, finomítson és tisztítson.</span></p>",
-    "price": 25176,
+    "price": 23917,
     "image_link": "https://wellshop.hu/img/95078/revitazen-plus-ketkamras-kapszula-001",
     "categories": [
       "doTERRA olajok",
