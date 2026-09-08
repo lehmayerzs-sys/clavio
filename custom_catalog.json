@@ -314,7 +314,7 @@
       "Higított olajok (golyós)",
       "doTERRA Adaptív termékcsalád"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -953,7 +953,7 @@
     "title": "doTerra Borsmenta gyöngyöcskék 125 db, Peppermint Beadlets",
     "link": "https://wellshop.hu/onallo-doterra-olaj-borsmenta-gyongyok-125-gyongy",
     "description": "Friss lehelet és azonnali élénkítés egyetlen apró gyöngyöcskében! A dōTERRA Borsmenta gyöngyök kényelmes megoldást nyújtanak az emésztés támogatására és a szájhigiénia fenntartására, bárhol is járjon.",
-    "price": 7506,
+    "price": 9876,
     "image_link": "https://wellshop.hu/img/95078/Peppermint-Beadlets-125gyongy-001",
     "categories": [
       "doTERRA olajok",
@@ -994,7 +994,7 @@
     "title": "doTerra Borsmenta Touch olaj 10 ml, Peppermint Touch",
     "link": "https://wellshop.hu/onallo-doterra-olaj-borsmenta-touch-10-ml",
     "description": "A dōTERRA Peppermint Touch frakcionált kókuszolajjal elegyíti a borsmenta esszenciális olajat, így biztosítva az olaj számos, külsőleges használat útján kínált előnyét.",
-    "price": 9177,
+    "price": 9425,
     "image_link": "https://wellshop.hu/img/95078/Peppermint-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -1046,7 +1046,7 @@
       "doTERRA gyermekeknek",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1557,7 +1557,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1580,7 +1580,7 @@
       "doTERRA krémek",
       "doTERRA Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1645,7 +1645,7 @@
       "doTERRA táplálékkiegészítők",
       "doTERRA Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1711,7 +1711,7 @@
       "Ízületek és Mozgás",
       "doTERRA Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2156,7 +2156,7 @@
       "doTERRA nőknek",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3241,7 +3241,7 @@
     "title": "doTerra Kurkuma kétkamrás kapszula 60 db-os, Turmeric",
     "link": "https://wellshop.hu/doterra-kurkuma-ketkamras-kapszula-60db",
     "description": "A kurkuma minden ereje egyetlen innovatív kapszulában! A doTERRA Kurkuma kétkamrás kapszula a kurkuminoid kivonat és a tiszta kurkuma esszenciális olaj (turmeronok) szinergiájával egyedülálló módon támogatja az egészséges gyulladásos válaszokat.",
-    "price": 19714,
+    "price": 19451,
     "image_link": "https://wellshop.hu/img/95078/turmeric-dual-chamber-capsules-60ct",
     "categories": [
       "doTERRA olajok",
@@ -4250,7 +4250,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4370,7 +4370,7 @@
       "Immunerősítés és Védelem",
       "doTERRA On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4395,7 +4395,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4418,7 +4418,7 @@
       "doTERRA Szájápolás",
       "doTERRA On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4689,7 +4689,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTERRA On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5088,7 +5088,7 @@
       "doTERRA gyermekeknek",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6413,7 +6413,7 @@
     "title": "doTerra Thinker Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-thinker-10-ml",
     "description": "Teremtsen tökéletes, fókuszált környezetet a tanuláshoz! A Thinker keverék csökkenti a mentális zajt, növeli az éberséget, és segít gyermekének megőrizni a figyelmét a bonyolultabb feladatok és a házi feladat írása közben.",
-    "price": 8734,
+    "price": 8504,
     "image_link": "https://wellshop.hu/img/95078/Thinker-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -6424,7 +6424,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7137,7 +7137,7 @@
     "title": "doTerra ZenGest lágyzselé olaj keverék 60 kapszula",
     "link": "https://wellshop.hu/doterra-keverek-olaj-zengest-lagyzsele-kapszula-60-kap",
     "description": "A természetes emésztéstámogató komplex, bárhol, bármikor! A ZenGest lágyzselatin kapszula gyors, kényelmes belső megkönnyebbülést nyújt emésztési diszkomfort, puffadás vagy egy nehéz étkezés utáni teltségérzet esetén.",
-    "price": 11603,
+    "price": 11133,
     "image_link": "https://wellshop.hu/img/95078/ZenGest-Softgels-60kap-002",
     "categories": [
       "doTERRA olajok",
@@ -7150,7 +7150,7 @@
       "krémek)",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
