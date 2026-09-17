@@ -840,7 +840,7 @@
       "Higított olajok (golyós)",
       "doTERRA Balance ™ - Egyensúly"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -972,7 +972,7 @@
     "title": "doTerra Borsmenta olaj 15 ml, Peppermint",
     "link": "https://wellshop.hu/onallo-doterra-olaj-borsmenta-15-ml",
     "description": "Töretlenül a dōTERRA egyik legnépszerűbb termékeként a borsmenta egy olyan olaj, amely mindig jó, ha kéznél van. A borsmenta esszenciális olaj frissítő, mentás ízt ad az ételeknek.",
-    "price": 11494,
+    "price": 12303,
     "image_link": "https://wellshop.hu/img/95078/Peppermint-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -1017,7 +1017,7 @@
     "title": "doTerra Brave Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-brave-10-ml",
     "description": "Növelje gyermeke önbizalmát a dōTERRA Brave Bátorító keverékkel! Ez a meleg, citrusos aroma segít elűzni a félelmeket és a gyámoltalanságot, lendületet és bátorságot adva a mindennapi (vagy akár a nagyobb) kihívások előtt.",
-    "price": 11007,
+    "price": 11305,
     "image_link": "https://wellshop.hu/img/95078/Brave-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -1028,7 +1028,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -1580,7 +1580,7 @@
       "doTERRA krémek",
       "doTERRA Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3388,7 +3388,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5182,7 +5182,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5207,7 +5207,7 @@
       "Légzés és allergia",
       "doTERRA párologtatók"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5658,7 +5658,7 @@
       "doTERRA Serenity ™ - Nyugodt alvás",
       "doTERRA Bőrápolás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5821,7 +5821,7 @@
       "doTERRA gyermekeknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -6413,7 +6413,7 @@
     "title": "doTerra Thinker Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-thinker-10-ml",
     "description": "Teremtsen tökéletes, fókuszált környezetet a tanuláshoz! A Thinker keverék csökkenti a mentális zajt, növeli az éberséget, és segít gyermekének megőrizni a figyelmét a bonyolultabb feladatok és a házi feladat írása közben.",
-    "price": 8573,
+    "price": 8805,
     "image_link": "https://wellshop.hu/img/95078/Thinker-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -6586,7 +6586,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -6960,7 +6960,7 @@
     "title": "doTerra Whisper Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-whisper-touch-10-ml",
     "description": "A nőiesség esszenciája egyetlen illatban! A Whisper Touch egy komplex, pézsmás és meleg virágos keverék, amely a bőr kémiájával egyesülve teljesen egyedi, csábító és eufórikus személyes parfümöt alkot.",
-    "price": 13537,
+    "price": 13903,
     "image_link": "https://wellshop.hu/img/95078/Whisper-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -7158,7 +7158,7 @@
     "title": "doTerra ZenGest olaj keverék 15 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-zengest-15-ml",
     "description": "Otthon és útközben is a legjobb barátja az emésztésnek! A ZenGest olajkeverék gyömbérrel, mentával és ánizzsal gyors, természetes enyhülést hoz a gyomorpanaszok, a puffadás és az utazási rosszullét esetén.",
-    "price": 17205,
+    "price": 16073,
     "image_link": "https://wellshop.hu/img/95078/ZenGest-15ml-001",
     "categories": [
       "doTERRA olajok",
