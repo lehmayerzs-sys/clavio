@@ -377,7 +377,7 @@
       "doTERRA Air ™ - Légzés",
       "Szuper akciók"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -840,7 +840,7 @@
       "Higított olajok (golyós)",
       "doTERRA Balance ™ - Egyensúly"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1182,7 +1182,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2156,7 +2156,7 @@
       "doTERRA nőknek",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2465,7 +2465,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3369,7 +3369,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3396,7 +3396,7 @@
     "title": "doTerra Levendula Touch olaj 10 ml, Lavender Touch",
     "link": "https://wellshop.hu/onallo-doterra-olaj-levendula-touch-10-ml",
     "description": "A nyugalom univerzális érintése, bárhol, bármikor! A Levendula Touch előre hígított, bőrbarát golyós kiszerelése megnyugtatja az irritált bőrt, csillapítja az elmét és tökéletes relaxációt nyújt egyetlen mozdulattal.",
-    "price": 9276,
+    "price": 8900,
     "image_link": "https://wellshop.hu/img/95078/Lavender-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -3406,7 +3406,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3641,7 +3641,7 @@
     "title": "doTerra MetaPWR gyöngyöcskék 125 gyöngy, Beadlets",
     "link": "https://wellshop.hu/doterra-metapwr-metapwr-kapszola-125-gyongy",
     "description": "Győzze le az édesség utáni sóvárgást egyetlen apró gyönggyel! A MetaPWR gyöngyöcskék útközben is praktikus módon frissítik a leheletet, miközben fűszeres-citrusos aromájukkal támogatják a tudatos étkezést.",
-    "price": 8059,
+    "price": 7529,
     "image_link": "https://wellshop.hu/img/95078/MetaPWR-Beadlets-125gyongy-001",
     "categories": [
       "doTERRA olajok",
@@ -3685,7 +3685,7 @@
     "title": "doTerra MetaPWR olaj 15 ml",
     "link": "https://wellshop.hu/doterra-metapwr-metapwr-15-ml",
     "description": "A frissítő lendület, amely támogatja az életmódváltását! A MetaPWR olajkeverék citrusos, fűszeres és mentás aromájával stimulálja az érzékeket, miközben tudatos ételválasztásra és aktív testmozgásra ösztönöz.",
-    "price": 12514,
+    "price": 13395,
     "image_link": "https://wellshop.hu/img/95078/MetaPWR-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -4356,7 +4356,7 @@
     "title": "doTerra On Guard cukorka 30 szem/zacskó, On Guard Drops",
     "link": "https://wellshop.hu/doterra-on-guard-on-guard-cukorka-30-csepp",
     "description": "A természetes védelem, amit bárhová magával vihet! A dōTERRA On Guard cukorka finom pasztilla formájában nyugtatja a torkot és támogatja a szervezet védelmi vonalát a fűszeres, melengető olajok erejével.",
-    "price": 6848,
+    "price": 6668,
     "image_link": "https://wellshop.hu/img/95078/On-Guard-Drops-30csepp-001",
     "categories": [
       "doTERRA olajok",
@@ -4760,7 +4760,7 @@
     "title": "doTerra On Guard+ lágyzselé 60 kapszula",
     "link": "https://wellshop.hu/doterra-keverek-olaj-on-guardplusz-lagyzsele-kapszula-60-kap",
     "description": "Maximális immunvédelem egyetlen kapszulába zárva. Az On Guard+ lágyzselé az eredeti keverék erejét oregánóval, feketeborssal és citromfűvel egészíti ki, gyors és kényelmes belsőleges támogatást nyújtva a szezonális fenyegetettségek idején.",
-    "price": 13816,
+    "price": 14400,
     "image_link": "https://wellshop.hu/img/95078/On-Guard--Softgels-60kap-001",
     "categories": [
       "doTERRA olajok",
@@ -5047,7 +5047,7 @@
       "Izmok",
       "Ízületek és Mozgás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5421,7 +5421,7 @@
     "title": "doTerra Rozmaring olaj 15 ml, Rosemary",
     "link": "https://wellshop.hu/onallo-doterra-olaj-rozmaring-15-ml",
     "description": "A rozmaring egy aromás, örökzöld bokorféle, amelynek a leveleit előszeretettel használják ételek ízesítéséhez. Az ókori kultúrákban szent növényként tisztelték. Gyógynövényes és energizáló illata miatt aroma- és masszázsterápiás célokra is gyakorta használják.",
-    "price": 9824,
+    "price": 9566,
     "image_link": "https://wellshop.hu/img/95078/Rosemary-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5433,7 +5433,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5625,7 +5625,7 @@
     "title": "doTerra Serenity olaj keverék 15 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-serenity-15-ml",
     "description": "Hagyja a háta mögött a nap feszültségeit! A dōTERRA Serenity egy mélyen megnyugtató, meleg illatú keverék, amely csillapítja a nyugtalanságot, és tökéletes, békés légkört teremt a pihentető, regeneráló alváshoz.",
-    "price": 18079,
+    "price": 19352,
     "image_link": "https://wellshop.hu/img/95078/Serenity-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5635,7 +5635,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTERRA Serenity ™ - Nyugodt alvás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5643,7 +5643,7 @@
     "title": "doTerra Serenity™ stift + Orvosi macskagyökér",
     "link": "https://wellshop.hu/Serenity-stift-Orvosi-macskagyoker",
     "description": "Gondoskodjon az éjszakai pihenésről maszatolás nélkül! A Serenity stift az Orvosi macskagyökér és a pihentető esszenciális olajok erejével lágyan csillapítja az idegeket, és gyengéd felvitelt biztosít a nyugodt alváshoz.",
-    "price": 8308,
+    "price": 8533,
     "image_link": "https://wellshop.hu/img/95078/serenity_stift_001",
     "categories": [
       "doTERRA olajok",
@@ -5838,7 +5838,7 @@
       "doTERRA gyermekeknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6000,7 +6000,7 @@
     "title": "doTerra Supermint Beadlets olaj keverék 125 gyöngy, Beadlets",
     "link": "https://wellshop.hu/doterra-keverek-olaj-supermint-beadlets-125-gyongy",
     "description": "Azonnali mentás robbanás, bárhol, bármikor! A SuperMint gyöngyöcskék apró, kényelmes formában biztosítják a tiszta mentaolajok élénkítő, légzéstisztító és emésztést támogató erejét, friss leheletet hagyva maguk után.",
-    "price": 8059,
+    "price": 7847,
     "image_link": "https://wellshop.hu/img/95078/Supermint-Beadlets-125gyongy-001",
     "categories": [
       "doTERRA olajok",
@@ -6224,7 +6224,7 @@
     "title": "doTerra Teafa olaj 15 ml, Tea Tree",
     "link": "https://wellshop.hu/onallo-doterra-olaj-teafa-15-ml",
     "description": "A gyakran „melaleuca” néven is emlegetett teafa esszenciális olaj több mint 92 különböző vegyületből áll. Legszélesebb körben tisztító, fertőtlenítő tulajdonságairól híres. Használatával mind a körmök, mind a bőr tisztább és ápoltabb lesz.",
-    "price": 11304,
+    "price": 11609,
     "image_link": "https://wellshop.hu/img/95078/Tea-Tree-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -6243,7 +6243,7 @@
     "title": "doTerra Teafa Touch olaj 10 ml, Tea Tree Touch",
     "link": "https://wellshop.hu/onallo-doterra-olaj-teafa-touch-10-ml",
     "description": "A praktikus golyós applikátorral ellátott Teafa Touch keverék frakcionált kókuszolajban hígítva biztosítja a teafa esszenciális olaj tisztító tulajdonságait. Használatával mind a bőr, mind a körmök tisztábbak és ápoltabbak lesznek.",
-    "price": 7345,
+    "price": 7152,
     "image_link": "https://wellshop.hu/img/95078/Tea-Tree-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -6386,7 +6386,7 @@
       "doTERRA táplálékkiegészítők",
       "doTERRA ZenGest ™ - Emésztés támogató"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6567,7 +6567,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
