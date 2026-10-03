@@ -221,6 +221,25 @@
     "inventory_policy": 1
   },
   {
+    "id": "citrus-bloom--touch-10ml-001",
+    "title": "Citrus Bloom Touch olaj keverék 10 ml",
+    "link": "https://wellshop.hu/Citrus-Bloom-Touch-olaj-keverek-10-ml",
+    "description": "<!HTML KOD><p><span>A Citrus Bloom keverék a vadnarancs, a grépfrút, a levendula, a római kamilla és a magnólia esszenciális olajok üdítő citrusos és illatos virágos aromáinak egyedülálló kombinációja, ami miatt a tavaszi időszak ideális olaja. Frakcionált kókuszolajjal kombinálva, Touch kiszerelésben pedig könnyedén felvihetjük, hogy megtapasztaljuk a doTERRA Citrus Bloom jótékony tulajdonságait. A nyugalom és optimizmus érzetét hozza el a napunkba.</span></p>",
+    "price": 10477,
+    "image_link": "https://wellshop.hu/img/95078/citrus-bloom--touch-10ml-001",
+    "categories": [
+      "doTERRA olajok",
+      "doTERRA megoldások és célok",
+      "Energia",
+      "Fókusz és Tanulás",
+      "Szabadalmaztatott Keverékek (Blends)",
+      "Higított olajok (golyós)",
+      "doTERRA termékcsaládok"
+    ],
+    "inventory_quantity": 2,
+    "inventory_policy": 1
+  },
+  {
     "id": "a2z-Chewable-60tabla-001",
     "title": "doTerra a2z Chewable rágótabletta 60 db-os",
     "link": "https://wellshop.hu/doterra-specialis-celu-taplalekkiegeszito-a2z-chewable-60-tabla",
@@ -276,7 +295,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTERRA a Háztartásban"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -303,7 +322,7 @@
     "title": "doTerra Adaptiv Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-adaptiv-touch-10-ml",
     "description": "Találja meg a belső békéjét bárhol, bármikor! Az Adaptiv Touch egy kényelmes golyós kiszerelésű, azonnal bőrre kenhető nyugtató keverék, amely segít lecsillapítani a testet és az elmét a feszült, stresszes és határozatlan pillanatokban.",
-    "price": 13044,
+    "price": 12186,
     "image_link": "https://wellshop.hu/img/95078/Adaptiv-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -573,7 +592,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1028,7 +1047,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -1182,7 +1201,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -1851,7 +1870,7 @@
       "önálló olajok (Single Oils)",
       "Emésztés és méregtelenítés"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2042,7 +2061,7 @@
     "title": "doTerra Eukaliptusz olaj 15 ml, Eucalyptus",
     "link": "https://wellshop.hu/onallo-doterra-olaj-eukaliptusz-15-ml",
     "description": "A néha gumifaként is emlegetett eukaliptuszfa egy olyan örökzöld fafajta, amely akár a 15 méteres magasságot is képes elérni. Bőrön alkalmazva az eukaliptusz ellazító hatású.",
-    "price": 12507,
+    "price": 9381,
     "image_link": "https://wellshop.hu/img/95078/Eucalyptus-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -3300,7 +3319,7 @@
     "title": "doTerra Laluz diffúzor és Citrus Bliss olaj 15 ml",
     "link": "https://wellshop.hu/doterra-parologtato-laluz-diffuzor-es-15-ml-citrus-bliss-Combo-cs",
     "description": "Modern dizájn és felemelő aromák otthonában! A szoborszerű, elegáns Laluz ultrahangos diffúzor és a hozzá csomagolt Citrus Bliss olajkeverék pillanatok alatt friss, pozitív és inspiráló atmoszférát teremt a lakás bármely pontján.",
-    "price": 41514,
+    "price": 33212,
     "image_link": "https://wellshop.hu/img/95078/Laluz-Diffuser---15-ml-Citrus-Bliss-Combocs-001",
     "categories": [
       "doTERRA olajok",
@@ -3322,7 +3341,7 @@
     "title": "doTerra Laluz párologtató 1 db",
     "link": "https://wellshop.hu/doterra-parologtato-laluz-parologtato-1-db",
     "description": "A dōTERRA LaLuz diffúzor mozaikszerű dizájnjával otthona dísze is egyben. Ultrahangos köd technológiával juttatja a levegőbe az illóolajok aromáját, csendes működéssel és automatikus kikapcsolással.",
-    "price": 27811,
+    "price": 20859,
     "image_link": "https://wellshop.hu/img/95078/Laluz-Diffuser-1db-001",
     "categories": [
       "doTERRA olajok"
@@ -3705,8 +3724,8 @@
     "title": "doTerra MetaPWR olaj 5 ml",
     "link": "https://wellshop.hu/doterra-metapwr-metapwr-5-ml",
     "description": "Indítsa be anyagcseréjét és támogassa tudatos életmódját! A MetaPWR esszenciálisolaj-keverék a grépfrút, a citrom és a menta élénkítő erejével energiát ad a testmozgáshoz, és segít leküzdeni az édesség utáni sóvárgást.",
-    "price": 17960,
-    "image_link": "https://wellshop.hu/img/95078/MetaPWR-15ml-001",
+    "price": 13470,
+    "image_link": "https://wellshop.hu/img/95078/MetaPWR-5ml-001",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -3717,7 +3736,7 @@
       "doTERRA termékcsaládok",
       "doTERRA MetaPWR ™ - Energetizáló"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4022,7 +4041,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5821,7 +5840,7 @@
       "doTERRA gyermekeknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -5933,7 +5952,7 @@
     "title": "doTerra Sun ásványi fényvédő stift arcra és testre 50 g, sun Face & Body Mineral Sunscreen Stick",
     "link": "https://wellshop.hu/doterra-napvedo-sun-asvanyi-fenyvedo-stift-arcra-es-testre-150-db",
     "description": "A teljes testre kifejlesztett ásványi fényvédő stiftünkkel végre beköszöntött a legtökéletesebb, maszatolástól mentes napvédelem korszaka. A vastag, kitekerhető stift könnyedén, különösebb erőfeszítés nélkül siklik a bőrön, kompakt méretének köszönhetően pedig bárhová könnyedén magával viheti. A Vörös mandarin, Magnólia, Indiai citromfű, Ilang ilang, Sárgarépamag, Tömjén és Olasz szalmagyopár essz",
-    "price": 18891,
+    "price": null,
     "image_link": "https://wellshop.hu/img/95078/sun-Face--Body-Mineral-Sunscreen-Stick-150db-001",
     "categories": [
       "doTERRA olajok",
@@ -6105,7 +6124,7 @@
       "Alvás és Stresszoldás",
       "Bőrápolás és szépség"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6327,7 +6346,7 @@
       "Immunerősítés és Védelem",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6518,7 +6537,7 @@
     "title": "doTerra TriEase lágyzselé olaj keverék 60 kapszula, TriEase Softgels",
     "link": "https://wellshop.hu/doterra-keverek-olaj-triease-lagyzsele-kapszula-60-kap",
     "description": "A természetes védelem a szezonális változások idején! A TriEase kapszula a citrom, a levendula és a borsmenta klasszikus harmóniájával támogatja a tiszta légzést és a szervezet védelmi rendszereit az allergének ellen.",
-    "price": 12712,
+    "price": 13249,
     "image_link": "https://wellshop.hu/img/95078/TriEase-Softgels-60kap-001",
     "categories": [
       "doTERRA olajok",
@@ -6530,7 +6549,7 @@
       "krémek)",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -6856,7 +6875,7 @@
       "doTERRA táplálékkiegészítők",
       "Szuper akciók"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
