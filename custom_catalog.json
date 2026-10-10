@@ -25,7 +25,7 @@
     "title": "Wellness csomag",
     "link": "https://wellshop.hu/doterra-wellness-csomag",
     "description": "Gondosan összeválogatott wellness alapcsomag mindennapokra – a doTERRA legtöbbet használt termékei egy szettben. Ideális azoknak, akik egyszerűen és hatékonyan szeretnék bevezetni a természetes életmódot.",
-    "price": 87683,
+    "price": 61379,
     "image_link": "https://wellshop.hu/img/95078/wellness-made-simple-bundle",
     "categories": [
       "doTERRA olajok",
@@ -37,7 +37,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -363,7 +363,7 @@
     "title": "doTerra Air cukorka 30 szem/zacskó, Air Drops",
     "link": "https://wellshop.hu/doterra-celzott-hatasu-termek-air-cukorka-30-cukorka",
     "description": "Praktikus, finom pasztilla a légutak azonnali megnyugtatására! A dōTERRA Air Cukorka a jól bevált légzéskönnyítő esszenciális olajokat ötvözi, hogy útközben is gyors, célzott támogatást nyújtson.",
-    "price": 8704,
+    "price": 8475,
     "image_link": "https://wellshop.hu/img/95078/Air-Drops-30cukorka-001",
     "categories": [
       "doTERRA olajok",
@@ -416,7 +416,7 @@
       "Higított olajok (golyós)",
       "doTERRA Air ™ - Légzés"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -859,7 +859,7 @@
       "Higított olajok (golyós)",
       "doTERRA Balance ™ - Egyensúly"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2061,7 +2061,7 @@
     "title": "doTerra Eukaliptusz olaj 15 ml, Eucalyptus",
     "link": "https://wellshop.hu/onallo-doterra-olaj-eukaliptusz-15-ml",
     "description": "A néha gumifaként is emlegetett eukaliptuszfa egy olyan örökzöld fafajta, amely akár a 15 méteres magasságot is képes elérni. Bőrön alkalmazva az eukaliptusz ellazító hatású.",
-    "price": 9651,
+    "price": 9404,
     "image_link": "https://wellshop.hu/img/95078/Eucalyptus-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -2071,7 +2071,7 @@
       "önálló olajok (Single Oils)",
       "Légzés és allergia"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -4277,7 +4277,7 @@
     "title": "doTerra Öblítés nélküli kondicionáló 237 ml, Leave-In Conditioner",
     "link": "https://wellshop.hu/doterra-hajapolas-oblites-nelkuli-kondicionalo-237-ml",
     "description": "Védje haját a hőhatásoktól és a gubancoktól! A dōTERRA Öblítés nélküli kondicionáló egy praktikus hajápoló permet, amely a vadnarancs és a kék varádics olajaival hidratál, simít és visszaadja a haj természetes, egészséges fényét.",
-    "price": 12636,
+    "price": 9477,
     "image_link": "https://wellshop.hu/img/95078/Leave-In-Conditioner-237ml-001",
     "categories": [
       "doTERRA olajok",
@@ -4290,7 +4290,7 @@
       "Bőrápolás és szépség",
       "doTERRA Hajápolás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5200,7 +5200,7 @@
     "title": "doTerra Peace Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-peace-touch-10-ml",
     "description": "Lassítson, vegyen egy mély levegőt, és találjon békére! A dōTERRA Peace Touch virágos, mentás keveréke segít oldani az aggodalmat, csillapítja a felfokozott érzelmeket, és megnyugtató belső csendet teremt a feszült pillanatokban.",
-    "price": 14083,
+    "price": 10985,
     "image_link": "https://wellshop.hu/img/95078/Peace-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5374,7 +5374,7 @@
     "title": "doTerra Rescuer Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-rescuer-10-ml",
     "description": "A gyermekek növekedő szervezetének Deep Blue-ja. A Rescuer Enyhítő keverék gyengéd, mégis hatékony megoldást kínál a fáradt, igénybevett izmok és lábak megnyugtatására egy mozgalmas nap vagy intenzív sportolás után.",
-    "price": 8524,
+    "price": 8305,
     "image_link": "https://wellshop.hu/img/95078/Rescuer-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5703,7 +5703,7 @@
       "doTERRA Serenity ™ - Nyugodt alvás",
       "doTERRA Bőrápolás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5866,7 +5866,7 @@
       "doTERRA gyermekeknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5883,7 +5883,7 @@
       "doTERRA gyermekeknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6045,7 +6045,7 @@
     "title": "doTerra Supermint Beadlets olaj keverék 125 gyöngy, Beadlets",
     "link": "https://wellshop.hu/doterra-keverek-olaj-supermint-beadlets-125-gyongy",
     "description": "Azonnali mentás robbanás, bárhol, bármikor! A SuperMint gyöngyöcskék apró, kényelmes formában biztosítják a tiszta mentaolajok élénkítő, légzéstisztító és emésztést támogató erejét, friss leheletet hagyva maguk után.",
-    "price": 8125,
+    "price": 8018,
     "image_link": "https://wellshop.hu/img/95078/Supermint-Beadlets-125gyongy-001",
     "categories": [
       "doTERRA olajok",
@@ -6213,7 +6213,7 @@
     "title": "doTerra Tamer Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-tamer-10-ml",
     "description": "Megkönnyebbülés a pocaknak, bárhol is jár! A gyermekek és felnőttek számára is ideális Tamer Emésztést támogató keverék azonnali, kellemesen nyugtató hatást nyújt utazási émelygés, vagy egy kiadós étkezés utáni teltségérzet esetén.",
-    "price": 8305,
+    "price": 8524,
     "image_link": "https://wellshop.hu/img/95078/Tamer-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -6469,7 +6469,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6563,7 +6563,7 @@
     "title": "doTerra TriEase lágyzselé olaj keverék 60 kapszula, TriEase Softgels",
     "link": "https://wellshop.hu/doterra-keverek-olaj-triease-lagyzsele-kapszula-60-kap",
     "description": "A természetes védelem a szezonális változások idején! A TriEase kapszula a citrom, a levendula és a borsmenta klasszikus harmóniájával támogatja a tiszta légzést és a szervezet védelmi rendszereit az allergének ellen.",
-    "price": 13462,
+    "price": 13107,
     "image_link": "https://wellshop.hu/img/95078/TriEase-Softgels-60kap-001",
     "categories": [
       "doTERRA olajok",
@@ -6675,7 +6675,7 @@
       "Bőrápolás és szépség",
       "doTERRA Hajápolás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6901,7 +6901,7 @@
       "doTERRA táplálékkiegészítők",
       "Szuper akciók"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -7257,7 +7257,7 @@
     "title": "Hajápoló csomag - Hai Care Trio",
     "link": "https://wellshop.hu/hajapolo-csomag-hair-care-trio",
     "description": "doTERRA Hajápoló Trió – sampon, kondicionáló és hajkörömápoló szérum egy szettben. CPTG® illóolajokkal dúsítva, szulfát- és parabénmentesen.",
-    "price": 35729,
+    "price": 34813,
     "image_link": "https://wellshop.hu/img/95078/Hair-Care-Trio-3db-001",
     "categories": [
       "doTERRA olajok",
@@ -7265,7 +7265,7 @@
       "Bőrápolás és szépség",
       "doTERRA Hajápolás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
