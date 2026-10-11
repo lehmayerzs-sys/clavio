@@ -1280,7 +1280,7 @@
       "doTERRA nőknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1521,7 +1521,7 @@
     "title": "doTerra DDR Prime lágyzselé olaj keverék 60 kapszula, Softgels",
     "link": "https://wellshop.hu/doterra-keverek-olaj-ddr-prime-lagyzsele-60-kap",
     "description": "Támogassa sejtjei egészségét és vitalitását egyszerűen, minden nap! A DDR Prime lágyzselatin kapszula erőteljes antioxidáns hatású esszenciális olajokat tartalmaz, melyek megvédik a testet a környezeti és oxidatív stresszel szemben.",
-    "price": 26031,
+    "price": 26716,
     "image_link": "https://wellshop.hu/img/95078/DDR-Prime-Softgels-60kap-001",
     "categories": [
       "doTERRA olajok",
@@ -2755,7 +2755,7 @@
     "title": "doTerra Indiai Citromfű olaj 15 ml, Lemongrass",
     "link": "https://wellshop.hu/onallo-doterra-olaj-indiai-citromfu-15-ml",
     "description": "Az indiai citromfűből füstös, citrusos esszenciális olaj állítható elő, amely számos előnyt kínál használójának. Az ázsiai gasztronómia már régóta alkalmazza az indiai citromfű esszenciális olajat levesek, teák és curryfélék elkészítéséhez, valamint hal-, szárnyas-, marha- és tengeri ételek ízesítéséhez is.",
-    "price": 6881,
+    "price": 6616,
     "image_link": "https://wellshop.hu/img/95078/Lemongrass-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -4269,7 +4269,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -5703,7 +5703,7 @@
       "doTERRA Serenity ™ - Nyugodt alvás",
       "doTERRA Bőrápolás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
