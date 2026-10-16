@@ -257,7 +257,7 @@
       "doTERRA gyermekeknek",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -363,7 +363,7 @@
     "title": "doTerra Air cukorka 30 szem/zacskó, Air Drops",
     "link": "https://wellshop.hu/doterra-celzott-hatasu-termek-air-cukorka-30-cukorka",
     "description": "Praktikus, finom pasztilla a légutak azonnali megnyugtatására! A dōTERRA Air Cukorka a jól bevált légzéskönnyítő esszenciális olajokat ötvözi, hogy útközben is gyors, célzott támogatást nyújtson.",
-    "price": 8680,
+    "price": 8452,
     "image_link": "https://wellshop.hu/img/95078/Air-Drops-30cukorka-001",
     "categories": [
       "doTERRA olajok",
@@ -376,7 +376,7 @@
       "Légzés és allergia",
       "doTERRA Air ™ - Légzés"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -396,7 +396,7 @@
       "doTERRA Air ™ - Légzés",
       "Szuper akciók"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1521,7 +1521,7 @@
     "title": "doTerra DDR Prime lágyzselé olaj keverék 60 kapszula, Softgels",
     "link": "https://wellshop.hu/doterra-keverek-olaj-ddr-prime-lagyzsele-60-kap",
     "description": "Támogassa sejtjei egészségét és vitalitását egyszerűen, minden nap! A DDR Prime lágyzselatin kapszula erőteljes antioxidáns hatású esszenciális olajokat tartalmaz, melyek megvédik a testet a környezeti és oxidatív stresszel szemben.",
-    "price": 26645,
+    "price": 25961,
     "image_link": "https://wellshop.hu/img/95078/DDR-Prime-Softgels-60kap-001",
     "categories": [
       "doTERRA olajok",
@@ -1599,7 +1599,7 @@
       "doTERRA krémek",
       "doTERRA Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -1687,7 +1687,7 @@
       "doTERRA krémek",
       "doTERRA Deep Blue ™ - Izomlazító"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -2813,7 +2813,7 @@
     "title": "doTerra IQ Mega folyékony omega-3 táplálékkiegészítő 150 ml + A2z Chewable",
     "link": "https://wellshop.hu/doterra-specialis-celu-taplalekkiegeszito-a2z-chewable-ragotabletta-es-iq-mega-folyekony-omega3-taplalekkiegeszito-2-db",
     "description": "A doTERRA a2z Chewable rágótabletta szabadalmazott formula, amelynek összetevőit azok számára állítottuk össze, akiknek gondot okoz a kapszula lenyelése. Ez az ízletes rágótabletta a B-vitaminok keverékét A-, C- és E-vitaminokkal ötvözi – és emellett növényi kivonatokat is tartalmaz! A nagyszerű ízű, könnyen lenyelhető IQ Mega omega-3 étrendkiegészítő adagonként 1300 mg koncentrált omega-3-zsírsav",
-    "price": 27675,
+    "price": 26965,
     "image_link": "https://wellshop.hu/img/95078/a2z-Chewable---IQ-Mega-2db-001",
     "categories": [
       "doTERRA olajok",
@@ -2828,7 +2828,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -3674,7 +3674,7 @@
       "doTERRA MetaPWR ™ - Energetizáló",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4414,7 +4414,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4718,7 +4718,7 @@
     "title": "doTerra On Guard szájvíz 473 ml, On Guard Mouthwash",
     "link": "https://wellshop.hu/doterra-on-guard-on-guard-szajviz-473-ml",
     "description": "A tiszta és egészséges szájüreg titka alkoholtartalom nélkül! A dōTERRA On Guard szájvíz a miswak kivonat és az esszenciális olajok erejével segít frissen tartani a leheletet és védeni az ínyt a mindennapokban.",
-    "price": 8380,
+    "price": 8601,
     "image_link": "https://wellshop.hu/img/95078/On-Guard-Mouthwash-473ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5200,7 +5200,7 @@
     "title": "doTerra Peace Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-peace-touch-10-ml",
     "description": "Lassítson, vegyen egy mély levegőt, és találjon békére! A dōTERRA Peace Touch virágos, mentás keveréke segít oldani az aggodalmat, csillapítja a felfokozott érzelmeket, és megnyugtató belső csendet teremt a feszült pillanatokban.",
-    "price": 10956,
+    "price": 10675,
     "image_link": "https://wellshop.hu/img/95078/Peace-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -5210,7 +5210,7 @@
       "Higított olajok (golyós)",
       "Alvás és Stresszoldás"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6222,7 +6222,7 @@
       "doTERRA gyermekeknek",
       "Szabadalmaztatott Keverékek (Blends)"
     ],
-    "inventory_quantity": 0,
+    "inventory_quantity": 2,
     "inventory_policy": 1
   },
   {
@@ -6417,7 +6417,7 @@
     "title": "doTerra TerraZyme 90 kapszula",
     "link": "https://wellshop.hu/doterra-zengest-terrazyme-90-kap",
     "description": "Támogassa emésztését sejtszinten! A TerraZyme egy komplex, teljes értékű enzimformula, amely a ZenGest olajkeverékkel kiegészülve segíti az ételek megfelelő lebontását és a tápanyagok optimális felszívódását.",
-    "price": 19194,
+    "price": 19699,
     "image_link": "https://wellshop.hu/img/95078/TerraZyme-90kap-001",
     "categories": [
       "doTERRA olajok",
@@ -6469,7 +6469,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -6542,7 +6542,7 @@
     "title": "doTerra Tömjén Touch olaj 10 ml, Frankincense Touch",
     "link": "https://wellshop.hu/onallo-doterra-olaj-tomjen-touch-10-ml",
     "description": "A dōTERRA Frankincense Touch praktikus golyós kiszerelésben biztosítja a tömjén esszenciális olaj népszerű előnyeit. Használja bőre megfiatalítására, a bőrhibák mérséklésére, valamint az ellazulás elősegítéséhez.",
-    "price": 23730,
+    "price": 24046,
     "image_link": "https://wellshop.hu/img/95078/Frankincense-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -6662,7 +6662,7 @@
     "title": "doTerra Védősampon 500 ml, Protecting Shampoo",
     "link": "https://wellshop.hu/doterra-hajapolas-vedosampon-500-ml",
     "description": "Legyen szó akár a hajlakk, a szárazsampon, a vízköves víz vagy az úszómedence klóros vizének hatásairól, a hajnak szüksége van egy napi használatra alkalmas, hatékony samponra. A doTERRA védősampon kíméletesen tisztít és élénkít, friss és puha érzetet hagyva a hajon. A színkezelt hajra nézve is biztonságos, a mindennapi használat során pedig kíméletes doTERRA védősampon segít a szennyeződések és l",
-    "price": 13514,
+    "price": 12994,
     "image_link": "https://wellshop.hu/img/95078/Protecting-Shampoo-500ml-001",
     "categories": [
       "doTERRA olajok",
@@ -7127,7 +7127,7 @@
     "title": "doTerra Zendocrine lágyzselé olaj keverék 60 kapszula",
     "link": "https://wellshop.hu/doterra-keverek-olaj-zendocrine-lagyzsele-kapszula-60-kap",
     "description": "Támogassa szervezete természetes megújulását! A Zendocrine lágyzselatin kapszula egyszerű és gyors módot kínál a test belső tisztító és méregtelenítő folyamatainak (máj, vese, vastagbél) egészséges működésének támogatására.",
-    "price": null,
+    "price": 14239,
     "image_link": "https://wellshop.hu/img/95078/Zendocrine-Softgels-60kap-001",
     "categories": [
       "doTERRA olajok",
