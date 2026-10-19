@@ -1102,7 +1102,7 @@
       "Energia",
       "Fókusz és Tanulás"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -1718,7 +1718,7 @@
     "title": "doTerra Deep Blue Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-deep-blue-touch-10-ml",
     "description": "Azonnali hűsítő és nyugtató megkönnyebbülés az igénybe vett izmoknak és ízületeknek. A Deep Blue Touch előre hígított, golyós formátuma tökéletes és gyors megoldást kínál egy intenzív edzés vagy egy kimerítő munkanap után.",
-    "price": 21653,
+    "price": 21097,
     "image_link": "https://wellshop.hu/img/95078/Deep-Blue-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -2061,7 +2061,7 @@
     "title": "doTerra Eukaliptusz olaj 15 ml, Eucalyptus",
     "link": "https://wellshop.hu/onallo-doterra-olaj-eukaliptusz-15-ml",
     "description": "A néha gumifaként is emlegetett eukaliptuszfa egy olyan örökzöld fafajta, amely akár a 15 méteres magasságot is képes elérni. Bőrön alkalmazva az eukaliptusz ellazító hatású.",
-    "price": 9353,
+    "price": 9230,
     "image_link": "https://wellshop.hu/img/95078/Eucalyptus-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -2175,7 +2175,7 @@
       "doTERRA nőknek",
       "doTERRA táplálékkiegészítők"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4269,7 +4269,7 @@
       "Kollekciók és Otthon",
       "Kollekciók és csomagok"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4791,7 +4791,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTERRA On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
