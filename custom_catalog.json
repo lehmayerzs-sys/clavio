@@ -6205,7 +6205,7 @@
       "Esszenciális",
       "önálló olajok (Single Oils)"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -6280,7 +6280,7 @@
       "Bőrápolás és szépség",
       "Immunerősítés és Védelem"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
