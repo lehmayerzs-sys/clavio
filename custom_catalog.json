@@ -304,15 +304,15 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-adaptiv-15-ml",
     "description": "Amikor úgy érzi, elborítják a mindennapok és egy kis nyugalomra lenne szüksége, az Adaptiv a tökéletes megoldás. Ez a szabadalmazott, nyugtató esszenciálisolaj-keverék segít lecsillapodni, javítja a hangulatot és támogatja a fókuszálást az új, stresszes helyzetekben.",
     "price": 20142,
-    "image_link": "https://wellshop.hu/img/95078/Adaptiv-15ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA termékcsaládok",
       "doTERRA megoldások és célok",
-      "Emésztés és méregtelenítés",
       "Szabadalmaztatott Keverékek (Blends)",
       "Alvás és Stresszoldás",
-      "doTERRA Adaptív termékcsalád"
+      "doTERRA Adaptív termékcsalád",
+      "Longevity támogató"
     ],
     "inventory_quantity": 2,
     "inventory_policy": 1
@@ -323,15 +323,15 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-adaptiv-touch-10-ml",
     "description": "Találja meg a belső békéjét bárhol, bármikor! Az Adaptiv Touch egy kényelmes golyós kiszerelésű, azonnal bőrre kenhető nyugtató keverék, amely segít lecsillapítani a testet és az elmét a feszült, stresszes és határozatlan pillanatokban.",
     "price": 12905,
-    "image_link": "https://wellshop.hu/img/95078/Adaptiv-Touch-10ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA termékcsaládok",
       "doTERRA megoldások és célok",
-      "Emésztés és méregtelenítés",
       "Szabadalmaztatott Keverékek (Blends)",
       "Higított olajok (golyós)",
-      "doTERRA Adaptív termékcsalád"
+      "doTERRA Adaptív termékcsalád",
+      "Alvás és Stresszoldás"
     ],
     "inventory_quantity": 0,
     "inventory_policy": 1
@@ -404,7 +404,7 @@
     "title": "doTerra Air Touch olaj keverék 10 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-air-touch-10-ml",
     "description": "A szabad légzés érzése egyetlen mozdulattal, akár útközben is! A dōTERRA Air Touch praktikus golyós kiszerelése azonnali hűsítő, nyugtató hatást biztosít a légutaknak. Kíméletes összetétele miatt az egész család számára kényelmesen alkalmazható.",
-    "price": 8863,
+    "price": 9103,
     "image_link": "https://wellshop.hu/img/95078/Air-Touch-10ml-001",
     "categories": [
       "doTERRA olajok",
@@ -1073,7 +1073,7 @@
     "title": "doTerra Cheer olaj keverék 5 ml",
     "link": "https://wellshop.hu/doterra-keverek-olaj-cheer-5-ml",
     "description": "Akárcsak egy kellemesen melengető napsugártól, a Cheer Hangulatemelő keveréktől is egy nagy adag pozitivitásra számíthat. Amikor éppen híján van a jókedvnek és az optimizmusnak, a Cheer keverék készen áll, hogy felderítse, és felélénkítse a hangulatát. A citrusos és fűszeres esszenciális olajok napsütést idéző, üde aromája bármikor jókedvre deríti a nap folyamán. Elsődleges előnyök – Cheer olaj Kü",
-    "price": 13181,
+    "price": 16898,
     "image_link": "https://wellshop.hu/img/95078/Cheer-5ml-001",
     "categories": [
       "doTERRA olajok",
@@ -1780,7 +1780,7 @@
     "link": "https://wellshop.hu/DigestZen-Alternativaja-ZenGest-lagyzselatin-kapsz-regi",
     "description": "DigestZen® (Alternatívája ZenGest™ lágyzselatin kapszula) Emésztést támogató keverékkel töltött lágyzselatin kapszula<br />A DigestZen lágyzselatin kapszulával kényelmesen és egyszerűen élvezheti a doTERRA DigestZen keverék jótékony hatásait. A DigestZen szabadalmazott keveréket Gyömbér, Borsmenta, Kömény, Ánizs, Koriandermag és Édeskömény egyedülálló kombinációja alkotja, ami hozzájárul a nyugtató hatás eléréséhez.",
     "price": null,
-    "image_link": "https://wellshop.hu/img/95078/Digestzen-60-kapszula",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -1789,7 +1789,8 @@
       "Gyöngyöcskék",
       "Vitaminok",
       "krémek)",
-      "doTERRA táplálékkiegészítők"
+      "doTERRA táplálékkiegészítők",
+      "doTERRA ZenGest ™ - Emésztés támogató"
     ],
     "inventory_quantity": 0,
     "inventory_policy": 1
@@ -2356,7 +2357,7 @@
     "link": "https://wellshop.hu/doterra-zengest-gx-assist-60-kap",
     "description": "A bélrendszer őszi-tavaszi nagytakarítása! A GX Assist a CPTG esszenciális olajok és a kaprilsav erejével erőteljesen támogatja a belső tisztulást, előkészítve a terepet az egészséges emésztőrendszer számára.",
     "price": 15480,
-    "image_link": "https://wellshop.hu/img/95078/GX-Assist-60kap-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA termékcsaládok",
@@ -2365,7 +2366,10 @@
       "Gyöngyöcskék",
       "Vitaminok",
       "krémek)",
-      "doTERRA táplálékkiegészítők"
+      "doTERRA táplálékkiegészítők",
+      "Immunerősítés és Védelem",
+      "Emésztés és méregtelenítés",
+      "doTERRA ZenGest ™ - Emésztés támogató"
     ],
     "inventory_quantity": 2,
     "inventory_policy": 1
@@ -2412,7 +2416,7 @@
     "link": "https://wellshop.hu/doterra-celzott-hatasu-termek-gyomber-cukorka-30-cukorka",
     "description": "Azonnali megkönnyebbülés utazás közben! A dōTERRA Gyömbér cukorka a gyömbér és a citrom esszenciális olajok jótékony hatását kínálja egy ízletes pasztillában, amely hatékonyan nyugtatja a gyomrot és enyhíti a diszkomfortérzetet.",
     "price": 6910,
-    "image_link": "https://wellshop.hu/img/95078/Ginger-Drops-30cukorka-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -2421,7 +2425,8 @@
       "Gyöngyöcskék",
       "Vitaminok",
       "krémek)",
-      "doTERRA táplálékkiegészítők"
+      "Immunerősítés és Védelem",
+      "Emésztés és méregtelenítés"
     ],
     "inventory_quantity": 2,
     "inventory_policy": 1
@@ -3260,7 +3265,7 @@
     "title": "doTerra Kurkuma kétkamrás kapszula 60 db-os, Turmeric",
     "link": "https://wellshop.hu/doterra-kurkuma-ketkamras-kapszula-60db",
     "description": "A kurkuma minden ereje egyetlen innovatív kapszulában! A doTERRA Kurkuma kétkamrás kapszula a kurkuminoid kivonat és a tiszta kurkuma esszenciális olaj (turmeronok) szinergiájával egyedülálló módon támogatja az egészséges gyulladásos válaszokat.",
-    "price": 20140,
+    "price": 20670,
     "image_link": "https://wellshop.hu/img/95078/turmeric-dual-chamber-capsules-60ct",
     "categories": [
       "doTERRA olajok",
@@ -3271,7 +3276,7 @@
       "Vitaminok",
       "krémek)"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -3724,7 +3729,7 @@
     "title": "doTerra MetaPWR olaj 5 ml",
     "link": "https://wellshop.hu/doterra-metapwr-metapwr-5-ml",
     "description": "Indítsa be anyagcseréjét és támogassa tudatos életmódját! A MetaPWR esszenciálisolaj-keverék a grépfrút, a citrom és a menta élénkítő erejével energiát ad a testmozgáshoz, és segít leküzdeni az édesség utáni sóvárgást.",
-    "price": 13326,
+    "price": 13504,
     "image_link": "https://wellshop.hu/img/95078/MetaPWR-5ml-001",
     "categories": [
       "doTERRA olajok",
@@ -4791,7 +4796,7 @@
       "Szabadalmaztatott Keverékek (Blends)",
       "doTERRA On Guard ™ - Immunrendszer"
     ],
-    "inventory_quantity": 2,
+    "inventory_quantity": 0,
     "inventory_policy": 1
   },
   {
@@ -4985,7 +4990,7 @@
   },
   {
     "id": "Home-Essentials-Combocs-001",
-    "title": "doTerra Otthon, Home Essentials - belépőcsomag",
+    "title": "doTerra Otthoni szükségletek, Home Essentials - belépőcsomag",
     "link": "https://wellshop.hu/doterra-egyseg-csomagok-home-essentials-Combo-cs",
     "description": "<!HTML KOD><p>doTERRA Home Essentials csomag – 10 legnépszerűbb illóolaj + diffúzor egy szettben. <br />Az otthoni aromaterápia teljes alapfelszerelése, tökéletes első lépés.<br /><br />Közvetlenül a doTERRA oldalán tudod megvásárolni, amennyiben nincs még törzsvásárlói fiókod. <br /><br /><span style=&quot;text-decoration: underline; background-color: #33cccc;&quot;><a href=&quot;https://wellshop.hu/doterra-fioknyitas&quot; style=&quot;background-color: #33cccc;&quot;>Részletek és jelentkezés itt &gt;&gt;</a></span></p>",
     "price": 127867,
@@ -5121,7 +5126,7 @@
     "link": "https://wellshop.hu/doterra-pb-assist-30-zacsko",
     "description": "A családbarát bélflóra támogatója ízletes formában! A PB Assist+ 13 különböző probiotikus törzzsel és prebiotikumokkal biztosítja az egészséges bélrendszer fenntartását – gyermekeknek és felnőtteknek egyaránt.",
     "price": 16018,
-    "image_link": "https://wellshop.hu/img/95078/PB-assist-30-zacsko",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -5131,7 +5136,9 @@
       "Vitaminok",
       "krémek)",
       "doTERRA gyermekeknek",
-      "doTERRA táplálékkiegészítők"
+      "doTERRA táplálékkiegészítők",
+      "Immunerősítés és Védelem",
+      "Emésztés és méregtelenítés"
     ],
     "inventory_quantity": 0,
     "inventory_policy": 1
@@ -5142,7 +5149,7 @@
     "link": "https://wellshop.hu/PB-Restore-30-ketkamras-kapszula",
     "description": "A mikrobiom teljes körű, professzionális megújítása! A PB Restore egyedülálló, kétkamrás kapszulája 30 bioaktív összetevővel védi és állítja helyre az emésztőrendszer, a kognitív funkciók és az immunrendszer egészségét.",
     "price": 22028,
-    "image_link": "https://wellshop.hu/img/95078/PB-Restore-30-ketkamras-kapszula-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "Készítmények (Kapszulák",
@@ -5152,7 +5159,9 @@
       "doTERRA termékcsaládok",
       "doTERRA megoldások és célok",
       "Longevity támogató",
-      "doTERRA táplálékkiegészítők"
+      "doTERRA táplálékkiegészítők",
+      "Immunerősítés és Védelem",
+      "Emésztés és méregtelenítés"
     ],
     "inventory_quantity": 0,
     "inventory_policy": 1
@@ -5466,7 +5475,7 @@
     "title": "doTerra Rozmaring olaj 15 ml, Rosemary",
     "link": "https://wellshop.hu/onallo-doterra-olaj-rozmaring-15-ml",
     "description": "A rozmaring egy aromás, örökzöld bokorféle, amelynek a leveleit előszeretettel használják ételek ízesítéséhez. Az ókori kultúrákban szent növényként tisztelték. Gyógynövényes és energizáló illata miatt aroma- és masszázsterápiás célokra is gyakorta használják.",
-    "price": 9644,
+    "price": 9905,
     "image_link": "https://wellshop.hu/img/95078/Rosemary-15ml-001",
     "categories": [
       "doTERRA olajok",
@@ -7183,7 +7192,7 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-zengest-lagyzsele-kapszula-60-kap",
     "description": "A természetes emésztéstámogató komplex, bárhol, bármikor! A ZenGest lágyzselatin kapszula gyors, kényelmes belső megkönnyebbülést nyújt emésztési diszkomfort, puffadás vagy egy nehéz étkezés utáni teltségérzet esetén.",
     "price": 10810,
-    "image_link": "https://wellshop.hu/img/95078/ZenGest-Softgels-60kap-002",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA termékcsaládok",
@@ -7193,7 +7202,8 @@
       "Gyöngyöcskék",
       "Vitaminok",
       "krémek)",
-      "doTERRA táplálékkiegészítők"
+      "doTERRA táplálékkiegészítők",
+      "doTERRA ZenGest ™ - Emésztés támogató"
     ],
     "inventory_quantity": 2,
     "inventory_policy": 1
@@ -7204,13 +7214,14 @@
     "link": "https://wellshop.hu/doterra-keverek-olaj-zengest-15-ml",
     "description": "Otthon és útközben is a legjobb barátja az emésztésnek! A ZenGest olajkeverék gyömbérrel, mentával és ánizzsal gyors, természetes enyhülést hoz a gyomorpanaszok, a puffadás és az utazási rosszullét esetén.",
     "price": 17205,
-    "image_link": "https://wellshop.hu/img/95078/ZenGest-15ml-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA termékcsaládok",
       "doTERRA megoldások és célok",
       "Emésztés és méregtelenítés",
-      "Szabadalmaztatott Keverékek (Blends)"
+      "Szabadalmaztatott Keverékek (Blends)",
+      "doTERRA ZenGest ™ - Emésztés támogató"
     ],
     "inventory_quantity": 2,
     "inventory_policy": 1
@@ -7375,7 +7386,7 @@
     "link": "https://wellshop.hu/doTerra-PB-Restore-30-db-os-ketkamras-kapszula",
     "description": "<!HTML KOD><p><span>A RevitaZen+ tiszta és tisztító hatású táplálékkiegészítő, amely az azonnal hasznosuló kétkamrás kapszulák jóvoltából egyszerűen bevehető, és célzott felszívódást biztosít. A túlterheltséget és felhalmozódásokat nem érezzük meg egyik napról a másikra; lassan és csendben nehezednek a testre, miközben belső feszültséget generálnak, és meggyengült egészségi állapothoz és jólléthez vezetnek. </span></p><p><span>A mindennapos szennyező anyagoknak való kitettség egyre tudatosabb felismerése tudatos változtatásért kiált – ezért alkotta meg a doTERRA a RevitaZen+-t. A máriatövis, articsóka levélkivonata, feketekömény magolaja és Római kömény esszenciális olaj kombinációja fontos alkotóelemeket biztosít, köztük szilibint, timokinont, cinarint, koffeoil-kinsavakat és kuminaldehidet, a RevitaZen Újraindító keverékkel karöltve, hogy együtt a növényi kivonatok és esszenciális olajak teljes körű forrását nyújtsák a test természetes kiválasztási folyamatainak segítéséhez. A RevitaZen+ kifejlesztésekor az volt a cél, hogy a testtel együttműködjön, ne pedig ellene, hogy az tehesse a dolgát: zavartalanul szűrjön, finomítson és tisztítson.</span></p>",
     "price": 23288,
-    "image_link": "https://wellshop.hu/img/95078/revitazen-plus-ketkamras-kapszula-001",
+    "image_link": "https://wellshop.hu/img/95078/",
     "categories": [
       "doTERRA olajok",
       "doTERRA megoldások és célok",
@@ -7386,7 +7397,8 @@
       "krémek)",
       "doTERRA táplálékkiegészítők",
       "doTERRA termékcsaládok",
-      "Emésztés és méregtelenítés"
+      "Emésztés és méregtelenítés",
+      "doTERRA ZenGest ™ - Emésztés támogató"
     ],
     "inventory_quantity": 0,
     "inventory_policy": 1
